@@ -12,7 +12,7 @@ Cada equipe pode ter de dois a seis participantes de faixas etárias diferentes,
 <br>
 
 <div align="center">
-  <img src="/img/pages/equipe1.jpg" alt="Ilustração de casas coloridas e crinaças brincando" style="width:20%">
+  <img src="/gd/img/pages/equipe1.jpg" alt="Ilustração de casas coloridas e crinaças brincando" style="width:20%">
 </div>
 
 <br>
