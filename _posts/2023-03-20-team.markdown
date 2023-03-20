@@ -3,83 +3,113 @@ title: Orientações para a Equipe
 layout: pages
 categories: ["team"]
 ---
-8.1 Forme sua equipe 
-	Cada equipe pode ter de dois a seis participantes de faixas etárias diferentes, lembrando que a equipe concorrerá na categoria do participante mais velho.
-Dica:
-	Cada membro da equipe é único e possui características e qualidades diferentes. Saibam aproveitar o melhor de cada participante, distribuam tarefas e descubram talentos! Quanto mais cedo a equipe começar a trabalhar, mais fácil será a resolução de possíveis problemas e a preparação para o Grande Dia. 
+### Forme sua equipe 
 
-8.2 Marque encontros com sua equipe regularmente 
-	Durante os encontros, a equipe deve desenvolver ideias, distribuir tarefas, arranjar materiais para construir, testar e consertar o equipamento, se necessário, para o Grande Dia. 
-	Já no primeiro encontro, é importante estipular um calendário com todas as próximas reuniões da equipe. Uma boa sugestão é realizar as reuniões aos sábados porque, geralmente, neste dia os participantes não têm compromissos escolares e o comércio está aberto para comprar os materiais que precisarem. Não pense que para um bom trabalho é preciso muito dinheiro. 
-	O tempo médio gasto para a construção dos equipamentos das equipes vencedoras em Desafios anteriores foi de 50 horas, incluindo as atividades sociais da equipe como refeições, conversas, etc. 
-	Considere a parte dedicada ao trabalho e a parte de interação entre os membros, que também é muito importante. Procure fazer reuniões mais longas para que cada encontro seja bastante produtivo, pois quando os amigos se encontram há muita conversa para colocar em dia. 
+Cada equipe pode ter de dois a seis participantes de faixas etárias diferentes, lembrando que a equipe concorrerá na categoria do participante mais velho.
 
-8.3 Distribua tarefas 
-	Quando sua equipe começar a se reunir, as diversas funções de cada membro ficarão mais claras. A distribuição de tarefas é muito importante para o desenvolvimento do projeto e a organização da equipe. Há uma série de tarefas a serem determinadas, como, por exemplo, compras e coleta de materiais, fotos, documentação, desenhos e detalhes do projeto, construção e operação do equipamento, lanche, etc. As funções de cada membro podem mudar durante o período de preparação para o Grande Dia, mas é importante que cada um tenha papéis definidos de acordo com suas habilidades. 
-8.4 Guia de questões 
-	As questões a seguir podem ajudar a entender melhor o problema proposto e inspirar ideias. Leia e tenha em mente estas perguntas, principalmente quando a equipe sentir dificuldade em ter novas ideias ou tomar decisões. 
-Qual o problema a ser resolvido? 
-É possível redefini-lo para facilitar a compreensão? 
-É possível dividir o problema em partes menores? 
-Quais são as regras? 
-É possível fazer um esboço da ideia? 
-É possível construir modelos que ajudem a visualizar e a desenvolver nossa ideia? 
-Existe algum modelo na vida real que seja parecido com a nossa ideia? 
-Este problema é similar a algum outro problema que sabemos resolver? 
-Qual a parte mais fácil do problema a ser resolvido? 
-Quais foram as ideias consideradas absurdas que apareceram? Será que são mesmo absurdas ou há um jeito de colocá-las em prática? 
-A equipe está unida para trabalhar na formulação e discussão das ideias? 
+**Dica:** Cada membro da equipe é único e possui características e qualidades diferentes. Saibam aproveitar o melhor de cada participante, distribuam tarefas e descubram talentos! Quanto mais cedo a equipe começar a trabalhar, mais fácil será a resolução de possíveis problemas e a preparação para o Grande Dia. 
 
-8.5 O toró de ideias 
-	O toró de ideias é um ótimo recurso que serve durante todo o projeto. Consiste em falar, ouvir e registrar todas as ideias que o grupo tiver, livremente e sem restrições, para depois selecionar o que preferir e desenvolver. Ele é dividido em três etapas até que a solução mais adequada seja encontrada.
-	A primeira etapa é lançar ideias. Por mais que pareçam absurdas, não deixe de considerá-las, pois a intenção é mesmo “viajar na maionese”. Anote todas as ideias e sugestões que todos os membros da equipe tiverem. 
-	Na segunda etapa, deve ser feita a análise dessas ideias. Pense nos prós e contras de cada sugestão e em como elas podem ser adaptadas ao problema. Também é possível combinar ideias diferentes e organizá-las da melhor maneira para a construção do projeto. 
-	Finalmente, a última etapa é a decisão. Após lançar ideias e analisá-las, a equipe deve decidir por uma proposta para começar a desenvolver. 
-Dica
-	Sempre que precisar de ideias ou novas soluções, faça o toró de ideias!
+<br>
 
-8.6 Trabalhando com seu orientador 
-	Cada equipe pode escolher um orientador, que pode ser um pai ou mãe, professor(a), irmão(ã) ou amigo(a), que auxiliará a equipe durante o processo de criação e construção, orientando o manuseio de ferramentas, dando dicas de locais para aquisição de materiais e também questionando os projetos para encontrar os pontos fracos. 
-	Não se esqueça, entretanto, de que o Grande Desafio tem de ser desenvolvido por ideias e recursos da própria equipe. O papel do orientador é apenas guiar e auxiliar. Ele não pode fazer pela equipe! 
+<div align="center">
+  <img src="/img/pages/equipe1.jpg" alt="Ilustração de casas coloridas e crinaças brincando" style="width:20%">
+</div>
 
-8.7 Relato de orientadora de um GD anterior
+<br>
+
+### Marque encontros com sua equipe regularmente 
+
+Durante os encontros, a equipe deve desenvolver ideias, distribuir tarefas, arranjar materiais para construir, testar e consertar o equipamento, se necessário, para o Grande Dia.
+
+Já no primeiro encontro, é importante estipular um calendário com todas as próximas reuniões da equipe. Uma boa sugestão é realizar as reuniões aos sábados porque, geralmente, neste dia os participantes não têm compromissos escolares e o comércio está aberto para comprar os materiais que precisarem. Não pense que para um bom trabalho é preciso muito dinheiro. 
+
+O tempo médio gasto para a construção dos equipamentos das equipes vencedoras em Desafios anteriores foi de 50 horas, incluindo as atividades sociais da equipe como refeições, conversas, etc.
+
+Considere a parte dedicada ao trabalho e a parte de interação entre os membros, que também é muito importante. Procure fazer reuniões mais longas para que cada encontro seja bastante produtivo, pois quando os amigos se encontram há muita conversa para colocar em dia. 
+
+### Distribua tarefas 
+
+Quando sua equipe começar a se reunir, as diversas funções de cada membro ficarão mais claras. A distribuição de tarefas é muito importante para o desenvolvimento do projeto e a organização da equipe. Há uma série de tarefas a serem determinadas, como, por exemplo, compras e coleta de materiais, fotos, documentação, desenhos e detalhes do projeto, construção e operação do equipamento, lanche, etc. As funções de cada membro podem mudar durante o período de preparação para o Grande Dia, mas é importante que cada um tenha papéis definidos de acordo com suas habilidades. 
+
+### Guia de questões 
+As questões a seguir podem ajudar a entender melhor o problema proposto e inspirar ideias. Leia e tenha em mente estas perguntas, principalmente quando a equipe sentir dificuldade em ter novas ideias ou tomar decisões. 
+
+* Qual o problema a ser resolvido? 
+* É possível redefini-lo para facilitar a compreensão? 
+* É possível dividir o problema em partes menores? 
+* Quais são as regras? 
+* É possível fazer um esboço da ideia? 
+* É possível construir modelos que ajudem a visualizar e a desenvolver nossa ideia? 
+* Existe algum modelo na vida real que seja parecido com a nossa ideia? 
+* Este problema é similar a algum outro problema que sabemos resolver? 
+* Qual a parte mais fácil do problema a ser resolvido? 
+* Quais foram as ideias consideradas absurdas que apareceram? Será que são mesmo absurdas ou há um jeito de colocá-las em prática? 
+* A equipe está unida para trabalhar na formulação e discussão das ideias? 
+
+### O toró de ideias 
+O toró de ideias é um ótimo recurso que serve durante todo o projeto. Consiste em falar, ouvir e registrar todas as ideias que o grupo tiver, livremente e sem restrições, para depois selecionar o que preferir e desenvolver. Ele é dividido em três etapas até que a solução mais adequada seja encontrada.
+
+A primeira etapa é lançar ideias. Por mais que pareçam absurdas, não deixe de considerá-las, pois a intenção é mesmo “viajar na maionese”. Anote todas as ideias e sugestões que todos os membros da equipe tiverem.
+
+Na segunda etapa, deve ser feita a análise dessas ideias. Pense nos prós e contras de cada sugestão e em como elas podem ser adaptadas ao problema. Também é possível combinar ideias diferentes e organizá-las da melhor maneira para a construção do projeto.
+
+Finalmente, a última etapa é a decisão. Após lançar ideias e analisá-las, a equipe deve decidir por uma proposta para começar a desenvolver.
+
+**Dica:** Sempre que precisar de ideias ou novas soluções, faça o toró de ideias!
+
+### Trabalhando com seu orientador
+Cada equipe pode escolher um orientador, que pode ser um pai ou mãe, professor(a), irmão(ã) ou amigo(a), que auxiliará a equipe durante o processo de criação e construção, orientando o manuseio de ferramentas, dando dicas de locais para aquisição de materiais e também questionando os projetos para encontrar os pontos fracos.
+
+Não se esqueça, entretanto, de que o Grande Desafio tem de ser desenvolvido por ideias e recursos da própria equipe. O papel do orientador é apenas guiar e auxiliar. Ele não pode fazer pela equipe! 
+
+### Relato de orientadora de um GD anterior
+
 Midori Hamamoto, EMEF Maria Pavanatti Fávaro, Campinas – SP 
-Nós temos muitas histórias para contar 
-Foi uma longa caminhada através do tempo e do espaço, que começou no sítio do Pica-Pau Amarelo, com a leitura da obra O Poço do Visconde de Monteiro Lobato e prosseguiu até o Golfo do México, quando todos vivenciaram através da mídia o grande problema do vazamento do petróleo. Lá chegamos muito ansiosos, porém ficamos felizes e realizados pelo fato de termos cumprido uma grande missão. Acreditamos que o Grande Desafio 2010 foi muito pontual, sensibilizando os participantes com relação ao meio ambiente. 
+
+**Nós temos muitas histórias para contar**
+
+Foi uma longa caminhada através do tempo e do espaço, que começou no sítio do Pica-Pau Amarelo, com a leitura da obra O Poço do Visconde de Monteiro Lobato e prosseguiu até o Golfo do México, quando todos vivenciaram através da mídia o grande problema do vazamento do petróleo. Lá chegamos muito ansiosos, porém ficamos felizes e realizados pelo fato de termos cumprido uma grande missão. Acreditamos que o Grande Desafio 2010 foi muito pontual, sensibilizando os participantes com relação ao meio ambiente.
+
 Já participamos da 1ª, 2ª, 3ª e 4ª edições do Grande Desafio, sempre somando novas experiências e muito aprendizado. 
+
 Com desafios diversificados, cada vez mais complexos e intrigantes formando equipes com suas peculiaridades, o Grande Desafio é uma ferramenta de convergência para um objetivo único da educação, proposto no projeto pedagógico da nossa escola: o crescimento pessoal e intelectual do aluno. É realmente um projeto em ação. 
+
 Os alunos aprendem a conviver com as diferenças dentro da equipe. Reelaboram princípios e valores no âmbito da autoestima, do convívio social e da cidadania. Desenvolvem habilidades da escrita, leitura e interpretação, habilidades para pesquisa, análise dos resultados e apresentação de soluções criativas. Potencializados, agem como protagonistas, buscam parcerias e a comunidade escolar fica contagiada e plenamente envolvida. A direção e toda equipe gestora, diante de tamanha euforia, faz a reorganização dos tempos e disponibiliza todos os recursos humanos e materiais incentivando o contato íntimo de nossos alunos do ensino fundamental com o ambiente universitário. 
-Todas as etapas de um trabalho científico são vivenciadas 
+
+**Todas as etapas de um trabalho científico são vivenciadas**
+
 Os saberes dos alunos ficam embutidos na construção da engenhoca, registrados nos relatórios e nos diários de campo. São divulgados na apresentação assim como nas entrevistas no Grande Dia. 
-“O erro faz parte!” 
+
+**“O erro faz parte!”**
+
 No dia-a-dia, a equipe não conseguia imaginar como é realmente a arena com o “mar” e o poço. 
+
 Pequenos detalhes como a transparência da caixa, escapam nos testes feitos na escola. Experimentar na arena oficial inspira mais segurança. E o mais importante é que a meninada realmente retorna entusiasmada através do clima do Grande Desafio (Unicamp, prontidão dos monitores, materiais que são disponibilizados, muitas outras escolas, contato com outras equipes, outros projetos, caminhão da Oficina). Voltam mais confiantes, encorajados e motivados com a consistência do projeto. 
+
 No nosso caso, a equipe voltou do dia do teste com o sentimento de derrota. Todos estavam muito seguros de que o equipamento iria funcionar bem. Mas o artefato não extraiu só o petróleo, levantou todo o poço e aconteceu o desastre ecológico: vazou óleo para todos os lados. 
-Fundamental é não desistir e, sim, ser persistente para reconstruir sempre que for necessário. 
+
+**Fundamental é não desistir e, sim, ser persistente para reconstruir sempre que for necessário.**
+
 Fizemos a avaliação das falhas, pois era necessário corrigi-las. O erro foi muito positivo e oportuno. A equipe pensou em produzir um novo artefato. 
+
 Passado o pânico, utilizar o mesmo passou a ser uma questão de honra. Ideias surgiram, novas alternativas foram levantadas e um aprendizado maior e mais consistente coroou a frase “o erro faz parte”. Houve uma valorização da capacidade de acontecer, maior autoestima e a certeza de que por melhor que o trabalho pareça ser, sempre é possível torná-lo eficiente e funcional. 
-O Papel do Orientador 
-Cada edição tem suas peculiaridades, cada equipe tem comportamentos diferentes e, a cada novo desafio, como orientadores, somos surpreendidos até mesmo com as nossas intermediações, colocações e atitudes que muitas vezes temos que tomar perante situações inusitadas. 
+
+### O Papel do Orientador 
+Cada edição tem suas peculiaridades, cada equipe tem comportamentos diferentes e, a cada novo desafio, como orientadores, somos surpreendidos até mesmo com as nossas intermediações, colocações e atitudes que muitas vezes temos que tomar perante situações inusitadas.
+
 A mudança de postura de cada um perante a equipe, a agilidade na forma de observar, interpretar, raciocinar, assumir e praticar diferentes situações são visíveis no decorrer do projeto. 
+
 O Grande Desafio requer muito tempo, o que possibilita não só a vivência dos erros e dos acertos, mas a construção de um relacionamento mais íntimo dos alunos com a escola, professores, funcionários e pessoas da comunidade. Nossos saberes e as habilidades são aguçados e colocados a toda prova. É realmente um projeto desafiador, onde todos ganham: alunos motivados, criativos, cidadãos preparados para desafios maiores que a vida apresentar, professores estimulados e uma equipe gestora que presta todo o apoio e se orgulha da escola que tem. Isso só é possível num ambiente escolar que todos se empenham. É o professor que registra todo o processo ou aquele que está lá para uma palavra a qualquer hora, é o professor que se sente honrado em ser o patrocinador dos uniformes para a equipe, as merendeiras que fazem quitutes, a fanfarra e o corpo coreográfico que animam a todos os amigos, pais, familiares, ex-alunos, enfim aqueles que de uma maneira ou de outra estão envolvidos no projeto, todos entoando o mesmo grito (Pavanatti! Pavanatti!).
-8.8 Estados de espírito 	
-	É bem provável que sua equipe passe por quatro fases principais durante o projeto: Euforia, Suor, Pânico e Sucesso. Estes estados de espírito refletem as diferentes etapas de trabalho. Sugerimos o seguinte calendário para organizar as atividades da equipe: 
 
+### Estados de espírito 	
 
-Estado de Espírito
+É bem provável que sua equipe passe por quatro fases principais durante o projeto: Euforia, Suor, Pânico e Sucesso. Estes estados de espírito refletem as diferentes etapas de trabalho. Sugerimos o seguinte calendário para organizar as atividades da equipe: 
 
-Período
+<br>
 
-Etapa do Trabalho
-Euforia
-Semanas iniciais após a inscrição
-É o período de inscrições, planejamento da equipe (organização das datas, do projeto, atribuição de tarefas…), toró de ideias e compras de materiais.
-Suor
-Período entre as semanas iniciais e finais
-É o período para a construção do projeto, modificações, documentação no diário de campo, os primeiros testes e construção da arena caseira.
-Pânico
-Semanas próximas ao Grande Dia
-Agora faltam poucas semanas, é hora é hora de dar os retoques finais no seu projeto, fazer os últimos testes, solucionar os problemas que surgiram, concluir a documentação e planejar a apresentação.
-Sucesso
-Grande Dia
-Chegou o Grande Dia! O esforço valeu a pena! Agora é hora de mostrar todo o trabalho para todos!
+| Estado de Espírito | Período | Etapa do Trabalho |
+|       :---:        |       :---:        |       :---:       |
+| Euforia  | Semanas iniciais após a inscrição     | É o período de inscrições, planejamento da equipe (organização das datas, do projeto, atribuição de tarefas…), toró de ideias e compras de materiais.|
+| Suor     | Período entre as semanas iniciais e finais       | É o período para a construção do projeto, modificações, documentação no diário de campo, os primeiros testes e construção da arena caseira.|
+| Pânico   | Semanas próximas ao Grande Dia      | Agora faltam poucas semanas, é hora é hora de dar os retoques finais no seu projeto, fazer os últimos testes, solucionar os problemas que surgiram, concluir a documentação e planejar a apresentação.|
+| Sucesso  | Grande Dia       | Chegou o Grande Dia! O esforço valeu a pena! Agora é hora de mostrar todo o trabalho para todos!|
