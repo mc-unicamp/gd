@@ -3,13 +3,20 @@ title: Passos para a Trilha Exploratória
 layout: pages
 categories: ["method"]
 ---
+
+<br>
+
 ### Encontre o seu Problema
 
 Uma boa pesquisa está conectada com o mundo ao redor. Muitos desafios e problemas encontrados no cotidiano inspiraram grandes projetos de pesquisa e descobertas. Por isso a jornada da sua equipe começa buscando um problema. Sugerimos que a sua equipe busque problemas ao redor: na rua, no bairro, ou comunidade; ou mesmo em alguma comunidade próxima ou na cidade em que vocês moram. Conversem com pessoas; busquem notícias locais; visitem lugares. O mais importante de tudo: registrem tudo no Diário de Campo.
 
+<br>
+
 <div align="center">
-  <img src="/img/pages/houses-1719055.svg" alt="Ilustração de casas coloridas e crinaças brincando" style="width:50%">
+  <img src="img/houses-1719055.svg" alt="Ilustração de casas coloridas e crinaças brincando" style="width:50%">
 </div>
+
+<br>
 
 ### Toró de Ideias
 
@@ -18,11 +25,13 @@ O toró de ideias é um ótimo recurso que serve durante todo o projeto, mas pri
 ### Projete a sua Solução
 A ideia selecionada no toró deve ganhar a forma de uma proposta de solução. É importante que você siga um método na elaboração e escrita da solução. Para o Grande Desafio, você deve responder as seguintes seis perguntas:
 
+<br>
 
 <div align="center">
-  <img src="/img/pages/image1.png" alt="Estrela de seis pontas, onde cada uma das pontas é uma pergunta: "O quê?", "Quem?", "Por quê?", "Onde?", "Como?", "Quando?" style="width:40%">
+  <img src="img/image1.png" alt="Estrela de seis pontas, onde cada uma das pontas é uma pergunta: "O quê?", "Quem?", "Por quê?", "Onde?", "Como?", "Quando?" style="width:40%">
 </div>
 
+<br>
 
 **O quê?**
 * O que está sendo proposto?
@@ -62,10 +71,14 @@ Algumas recomendações que podem valorizar a sua proposta:
 Com o projeto em mãos, a sua equipe sai a campo para torná-lo concreto. O mais provável é que o que foi planejado não vá funcionar de primeira. Ao contrário, a maior parte das soluções bem-sucedidas são resultantes de um número grande de tentativas, testes e aperfeiçoamentos.
 O ciclo apresentado na figura abaixo resume uma estratégia recorrentemente utilizada por cientistas no desenvolvimento de suas pesquisas. A partir do projeto inicial, é implementada uma primeira solução. Essa solução é testada e avaliada. Os resultados dessa avaliação permitem uma análise das limitações e falhas da solução, bem como a revisão e refinamento do projeto, a ser novamente implementado e testado, fechando o ciclo da figura.
 
+<br>
+
 <div align="center">
-  <img src="/img/pages/image3.png" alt="Ciclo Projeto-Implementação-Avaliação." style="width:40%">
+  <img src="img/image3.png" alt="Ciclo Projeto-Implementação-Avaliação." style="width:40%">
 </div>
 
+<br>                                                                                         
+                                                                                          
 Não apenas é importante que a sua equipe realize tantos testes e refinamentos quantos forem necessários, mas também que mantenha um registro de todo o processo, das diversas versões do protótipo, de quando e como foram feitos os experimentos. Esse registro, a ser feito no Diário de Campo, é valioso e será ponto importante na avaliação da solução.
                                                                                                  
 ### Divulgue os seus Resultados
