@@ -6,7 +6,7 @@ categories: ["community"]
 
 <br>
 
-É fundamental que sua equipe esteja atenta e visite regularmente os canais de comunicação do Museu Exploratório de Ciências - Unicamp que incluem site (http://mc-unicamp.github.io/gd/), Facebook (@mcunicamp) ou (@GDUnicamp), Instagram (@mcunicamp) e canal no Youtube.
+É fundamental que sua equipe esteja atenta e visite regularmente os canais de comunicação do Museu Exploratório de Ciências - Unicamp que incluem site (<http://mc-unicamp.github.io/gd/>), Facebook (@mcunicamp) ou (@GDUnicamp), Instagram (@mcunicamp) e canal no Youtube.
 
 Nesses canais você encontrará as principais informações sobre o Grande Desafio, incluindo: informações sobre inscrições, calendário e suas possíveis atualizações, links para desafios de anos anteriores, orientações sobre cada etapa, materiais adicionais de pesquisa que podem ser usados no desenvolvimento da solução de sua equipe.
 
