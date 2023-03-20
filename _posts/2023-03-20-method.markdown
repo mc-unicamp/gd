@@ -13,7 +13,7 @@ Uma boa pesquisa está conectada com o mundo ao redor. Muitos desafios e problem
 <br>
 
 <div align="center">
-  <img src="img/houses-1719055.svg" alt="Ilustração de casas coloridas e crinaças brincando" style="width:50%">
+  <img src="/gd/img/houses-1719055.svg" alt="Ilustração de casas coloridas e crinaças brincando" style="width:50%">
 </div>
 
 <br>
@@ -28,7 +28,7 @@ A ideia selecionada no toró deve ganhar a forma de uma proposta de solução. �
 <br>
 
 <div align="center">
-  <img src="img/image1.png" alt="Estrela de seis pontas, onde cada uma das pontas é uma pergunta: "O quê?", "Quem?", "Por quê?", "Onde?", "Como?", "Quando?" style="width:40%">
+  <img src="/gd/img/image1.png" alt="Estrela de seis pontas, onde cada uma das pontas é uma pergunta: "O quê?", "Quem?", "Por quê?", "Onde?", "Como?", "Quando?" style="width:40%">
 </div>
 
 <br>
@@ -74,7 +74,7 @@ O ciclo apresentado na figura abaixo resume uma estratégia recorrentemente util
 <br>
 
 <div align="center">
-  <img src="img/image3.png" alt="Ciclo Projeto-Implementação-Avaliação." style="width:40%">
+  <img src="/gd/img/image3.png" alt="Ciclo Projeto-Implementação-Avaliação." style="width:40%">
 </div>
 
 <br>                                                                                         
