@@ -4,28 +4,35 @@ layout: pages
 categories: ["calendar"]
 ---
 
+### Inscrições
+
+* **Início das Inscrições**: 08/05/2023
+* **Término das Inscrições**: 03/07/2023
+
+### Oficinas Prévias
+
 Todas as oficinas prévias ao Grande Dia serão realizadas no Museu Exploratório de Ciências da Unicamp, aos sábados, em conjunto com a programação do Fim de Semana no Museu.
 
 O calendário segue o planejamento anual do Museu. Qualquer mudança resultante de eventos imprevistos será divulgada com antecedência nesta página.
 
-### Oficina para Orientadores
+#### Oficina para Orientadores
 
 * **Data**: Sábado 01/04/2023 (<span style="color:green">confirmado</span>)
 * **Horário**: <span style="color:blue">a ser divulgado em breve</span>
 
-### Primeiro Encontro
+#### Primeiro Encontro
 
 * **Oficina de Testes - trilha experimental**<br>
   **Prévia de Projetos - trilha exploratória**
   * **Data**: Sábado 17/06/2023 (<span style="color:magenta">a confirmar</span>)
 
-### Segundo Encontro
+#### Segundo Encontro
 
 * **Oficina de Testes - trilha experimental**<br>
   **Prévia de Resultados - trilha exploratória**
   * **Data**: Sábado em agosto de 2023 (<span style="color:blue">data específica será divulgada</span>)
 
-## Grande Dia
+### Grande Dia
 
 * **Data**: Sábado em outubro de 2023 (<span style="color:blue">data específica será divulgada</span>)
 * **Local**: <span style="color:blue">a ser divulgado</span>
