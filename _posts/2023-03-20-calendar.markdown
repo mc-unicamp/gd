@@ -13,21 +13,17 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
 * **Data**: Sábado 01/04/2023 (<span style="color:green">confirmado</span>)
 * **Horário**: <span style="color:blue">a ser divulgado em breve</span>
 
-### Oficinas de Testes
+### Primeiro Encontro
 
-* **Primeira Oficina**
+* **Oficina de Testes - trilha experimental**<br>
+  **Prévia de Projetos - trilha exploratória**
   * **Data**: Sábado 17/06/2023 (<span style="color:magenta">a confirmar</span>)
 
-* **Primeira Oficina**
-  * **Data**: Sábado em agosto ou setembro de 2023 (<span style="color:blue">data específica será divulgada</span>)
+### Segundo Encontro
 
-### Prévia dos Projetos
-
-* **Data**: Sábado 17/06/2023 (<span style="color:magenta">a confirmar</span>)
-
-### Prévia dos Resultados
-
-* **Data**: Sábado em agosto ou aetembro de 2023 (<span style="color:blue">data específica será divulgada</span>)
+* **Oficina de Testes - trilha experimental**<br>
+  **Prévia de Resultados - trilha exploratória**
+  * **Data**: Sábado em agosto de 2023 (<span style="color:blue">data específica será divulgada</span>)
 
 ## Grande Dia
 
