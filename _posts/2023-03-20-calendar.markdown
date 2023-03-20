@@ -19,11 +19,7 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
   * **Data**: Sábado 17/06/2023 (<span style="color:magenta">a confirmar</span>)
 
 * **Primeira Oficina**
-  * **Data**: Sábado 26/08/2023 (<span style="color:magenta">a confirmar</span>)
-
-### Oficina de Debate
-
-* **Data**: Sábado 20/05/2023 (<span style="color:magenta">a confirmar</span>)
+  * **Data**: Sábado em Agosto ou Setembro de 2023 (<span style="color:blue">data específica será divulgada</span>)
 
 ### Prévia dos Projetos
 
@@ -31,9 +27,29 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
 
 ### Prévia dos Resultados
 
-* **Data**: Sábado 26/08/2023 (<span style="color:magenta">a confirmar</span>)
+* **Data**: Sábado em Agosto ou Setembro de 2023 (<span style="color:blue">data específica será divulgada</span>)
 
 ## Grande Dia
 
-* **Data**: outubro de 2023 <span style="color:blue">data específica a ser divulgada em breve</span>
-* **Local**: <span style="color:blue">a ser divulgado em breve</span>
+* **Data**: outubro de 2023 <span style="color:blue">data específica será divulgada</span>
+* **Local**: <span style="color:blue">a ser divulgado</span>
+
+## Detalhamento das Oficinas
+
+### Oficina para Orientadores
+
+O Museu Exploratório de Ciências – Unicamp – oferecerá uma oficina para os orientadores. Tais oficinas serão divulgadas nos canais regulares de comunicação do Museu, conforme especificados na Seção 3. Não é obrigatório participar, mas todos serão muito bem-vindos.
+
+Este é um dia importante para que os orientadores tirem suas dúvidas e troquem experiências com outros orientadores, inclusive que já tenham participado em anos anteriores. Neste encontro, os orientadores também conhecerão os desafios anteriores e os processos de avaliação do Grande Desafio.
+
+### Oficinas de Testes 
+
+Essas oficinas são voltadas a quem participa da Trilha Experimental. A fim de promover momentos de retirada de dúvidas, trocas de ideias e realização de testes, a Trilha Experimental prevê ao menos duas datas de Oficinas de Testes. As Oficinas de Testes contarão com membros do Comitê Científico do Grande Desafio e arenas de testes com alguns dos elementos de avaliação que serão utilizados no Grande Dia.
+
+### Oficinas de Projetos e Resultados
+
+Essas duas oficinas estão ligadas aos passos a serem seguidos na Trilha Exploratória.
+
+**Prévia dos Projetos**: Nesse dia, a sua equipe terá a oportunidade de fazer a apresentação prévia do projeto completo. Tal como a Oficina de Debate, a apresentação será assistida por membros do Comitê Científico do Grande Desafio que avaliará a apresentação, fará comentários e dará sugestões. Essa apresentação não é obrigatória, mas no Grande Dia haverá uma premiação especial para aqueles que se destacarem na Prévia de Projetos.
+
+**Prévia dos Resultados**: Nesse dia, a sua equipe terá oportunidade de realizar uma apresentação prévia de tudo o que foi alcançado (projeto, experimentos, resultados, etc.). Tal como nas oficinas anteriores, a apresentação será assistida por membros do Comitê Científico do Grande Desafio que avaliará a apresentação, fará comentários e dará sugestões. Essa apresentação não é obrigatória, mas no Grande Dia haverá uma premiação especial para aqueles que se destacarem na Prévia de Resultados.
