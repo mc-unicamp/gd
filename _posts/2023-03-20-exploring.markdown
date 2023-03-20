@@ -8,7 +8,7 @@ categories: ["exploring"]
 
 ## Produção de Plástico Biodegradável da Casca da Manga e Utilização como Invólucro de Mudas
 
-Este projeto consiste na produção de um material plástico biodegradável a partir da casca de manga, e utilizá-lo como invólucro de mudas, tendo como parâmetro um plástico que degrade facilmente, sem deixar nenhum resíduo, que não danifique o solo e que ainda sirva como nutriente para as  plantas. Para mais informações acesse: (https://fbjc.com.br/mostra2020Detalhes.php?projeto=382).
+Este projeto consiste na produção de um material plástico biodegradável a partir da casca de manga, e utilizá-lo como invólucro de mudas, tendo como parâmetro um plástico que degrade facilmente, sem deixar nenhum resíduo, que não danifique o solo e que ainda sirva como nutriente para as  plantas. Para mais informações acesse: [https://fbjc.com.br/mostra2020Detalhes.php?projeto=382](https://fbjc.com.br/mostra2020Detalhes.php?projeto=382).
 
 <br>
 
@@ -22,7 +22,7 @@ Este projeto consiste na produção de um material plástico biodegradável a pa
 
 ## Identificação do Sistema Solar em Escolas com Deficientes Visuais
 
-Este projeto foi desenvolvido por alunas do Colégio La Salle Carmo, Rio Grande do Sul, e teve como objetivo criar uma maquete do Sistema Solar adaptada para o ensino de pessoas com deficiência visual. Para mais informações acesse: (https://virtual.mostratec.com.br/projeto/identificacao-do-sistema-solar-em-escolas-com-deficientes-visuais/).
+Este projeto foi desenvolvido por alunas do Colégio La Salle Carmo, Rio Grande do Sul, e teve como objetivo criar uma maquete do Sistema Solar adaptada para o ensino de pessoas com deficiência visual. Para mais informações acesse: [https://virtual.mostratec.com.br/projeto/identificacao-do-sistema-solar-em-escolas-com-deficientes-visuais/](https://virtual.mostratec.com.br/projeto/identificacao-do-sistema-solar-em-escolas-com-deficientes-visuais/).
 
 <br>
 
@@ -36,7 +36,7 @@ Este projeto foi desenvolvido por alunas do Colégio La Salle Carmo, Rio Grande 
 
 ## Biofiltro de Óleo Doméstico à Base de Taboa
 
-Este projeto consiste no desenvolvimento de um filtro a base da fibra da planta Taboa com a finalidade de reter óleos lançados em pias residenciais. Para mais informações acesse: (https://virtual.mostratec.com.br/projeto/biofiltro-de-oleo-domestico-a-base-de-taboa/).
+Este projeto consiste no desenvolvimento de um filtro a base da fibra da planta Taboa com a finalidade de reter óleos lançados em pias residenciais. Para mais informações acesse: [https://virtual.mostratec.com.br/projeto/biofiltro-de-oleo-domestico-a-base-de-taboa/](https://virtual.mostratec.com.br/projeto/biofiltro-de-oleo-domestico-a-base-de-taboa/).
 
 <br>
 
