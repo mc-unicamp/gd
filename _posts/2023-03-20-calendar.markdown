@@ -1,0 +1,39 @@
+---
+title: Calendário de Eventos
+layout: pages
+categories: ["calendar"]
+---
+
+Todas as oficinas prévias ao Grande Dia serão realizadas no Museu Exploratório de Ciências da Unicamp, aos sábados, em conjunto com a programação do Fim de Semana no Museu.
+
+O calendário segue o planejamento anual do Museu. Qualquer mudança resultante de eventos imprevistos será divulgada com antecedência nesta página.
+
+### Oficina para Orientadores
+
+* **Data**: Sábado 01/04/2023 (<span style="color:green">confirmado</span>)
+* **Horário**: <span style="color:blue">a ser divulgado em breve</span>
+
+### Oficinas de Testes
+
+* **Primeira Oficina**
+  * **Data**: Sábado 17/06/2023 (<span style="color:magenta">a confirmar</span>)
+
+* **Primeira Oficina**
+  * **Data**: Sábado 26/08/2023 (<span style="color:magenta">a confirmar</span>)
+
+### Oficina de Debate
+
+* **Data**: Sábado 20/05/2023 (<span style="color:magenta">a confirmar</span>)
+
+### Prévia dos Projetos
+
+* **Data**: Sábado 17/06/2023 (<span style="color:magenta">a confirmar</span>)
+
+### Prévia dos Resultados
+
+* **Data**: Sábado 26/08/2023 (<span style="color:magenta">a confirmar</span>)
+
+## Grande Dia
+
+* **Data**: <span style="color:blue">a ser divulgado em breve</span>
+* **Local**: <span style="color:blue">a ser divulgado em breve</span>

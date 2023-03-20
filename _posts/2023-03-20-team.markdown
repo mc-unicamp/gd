@@ -1,5 +1,5 @@
 ---
-title: Equipe
+title: Orientações para a Equipe
 layout: pages
 categories: ["team"]
 ---
