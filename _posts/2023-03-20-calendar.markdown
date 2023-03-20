@@ -27,7 +27,7 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
 
 ## Grande Dia
 
-* **Data**: Sábado em outubro de 2023 <span style="color:blue">data específica será divulgada</span>
+* **Data**: Sábado em outubro de 2023 (<span style="color:blue">data específica será divulgada</span>)
 * **Local**: <span style="color:blue">a ser divulgado</span>
 
 ## Detalhamento das Oficinas
