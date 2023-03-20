@@ -28,7 +28,7 @@ A ideia selecionada no toró deve ganhar a forma de uma proposta de solução. �
 <br>
 
 <div align="center">
-  <img src="/gd/img/pages/image1.png" alt="Estrela de seis pontas, onde cada uma das pontas é uma pergunta: 'O quê?', 'Quem?', 'Por quê?', 'Onde?', 'Como?', 'Quando?' style="width:40%">
+  <img src="/gd/img/pages/image1.png" alt="Estrela de seis pontas, onde cada uma das pontas é uma pergunta: 'O quê?', 'Quem?', 'Por quê?', 'Onde?', 'Como?', 'Quando?'" style="width:40%">
 </div>
 
 <br>
