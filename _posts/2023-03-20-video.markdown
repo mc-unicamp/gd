@@ -1,0 +1,8 @@
+---
+title: Orientações sobre o Vídeo Desafio
+layout: pages
+categories: ["video"]
+---
+## Vídeo Desafio
+
+Nesta página serão publicadas instruções detalhadas sobre o Vídeo Desafio.
