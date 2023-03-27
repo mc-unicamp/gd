@@ -9,7 +9,7 @@ O Grande Desafio é uma atividade proposta por uma equipe de cientistas e educad
 ### Oficina para Educadores e Orientadores: Grande Desafio
 
 <div style="text-align:center">
-  <a href="/gd/docs/manual-grande-desafio-2023.pdf" target="_blank"><img src="/gd/img/capa-manual.png"></a>
+  <img src="/gd/img/oficina-educadores-abril.png">
 </div>
 
 **Sábado 01/04 - das 10h às 11h30** no Museu Exploratório de Ciências da Unicamp
@@ -22,7 +22,7 @@ A oficina é parte do Fim de Semana no Museu - <a href="https://www.mc.unicamp.b
 ### Participe do Grande Desafio! Baixe o Manual:
 
 <div style="text-align:center">
-  <img src="/gd/img/oficina-educadores-abril.png">
+  <a href="/gd/docs/manual-grande-desafio-2023.pdf" target="_blank"><img src="/gd/img/capa-manual.png"></a>
 </div>
 
 ### Links Importantes
