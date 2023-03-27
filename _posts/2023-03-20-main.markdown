@@ -6,12 +6,26 @@ categories: ["main"]
 
 O Grande Desafio é uma atividade proposta por uma equipe de cientistas e educadores da Unicamp, cuja proposta é estimular a curiosidade sobre o mundo, seus fenômenos e desafios.
 
-### Participe! Baixe o Manual
+<div style="text-align:center">
+  <img src="/gd/img/oficina-educadores-abril.png">
+</div>
+
+
+**Participe! Baixe o Manual**
+
+### Oficina para Educadores e Orientadores: Grande Desafio
 
 <div style="text-align:center">
   <a href="/gd/docs/manual-grande-desafio-2023.pdf" target="_blank"><img src="/gd/img/capa-manual.png"></a>
 </div>
 
+**Sábado 01/04 - das 10h às 11h30** no Museu Exploratório de Ciências da Unicamp
+
+Não é necessário se inscrever.
+
+A oficina é parte do Fim de Semana no Museu - <a href="https://www.mc.unicamp.br/noticias/fim-de-semana-no-museu-da-a-largada-para-o-grande-desafio-com-atividades-para-criancas-e-educadores" target="_blank">clique aqui para detalhes</a>.
+
+### Links Importantes
 
 A seguir resumimos os links importantes para você acompanhar o Grande Desafio:
 * [Inscrições](https://museu.harena.org/gd/inscricoes/)
