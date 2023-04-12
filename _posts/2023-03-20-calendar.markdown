@@ -31,7 +31,7 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
 
 ## Grande Dia
 
-* **Data**: Sábado 11/11/2023
+* **Data**: Sábado 11/11/2023 (<span style="color:green">confirmado</span>)
 * **Local**: <span style="color:blue">Ginásio Multidisciplinar da Unicamp</span>
 
 ## Detalhamento das Oficinas
