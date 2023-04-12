@@ -10,8 +10,12 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
 
 ### Oficina para Orientadores
 
+* **Data**: Sábado 20/05/2023 (<span style="color:green">confirmado</span>)
+  * **Horário**: <span style="color:blue">10 às 11:30</span>
+
+
 * **Data**: Sábado 01/04/2023 (<span style="color:green">confirmado</span>)
-* **Horário**: <span style="color:blue">a ser divulgado em breve</span>
+  * **Horário**: <span style="color:blue">10 às 11:30</span>
 
 ### Primeiro Encontro
 
@@ -27,8 +31,8 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
 
 ## Grande Dia
 
-* **Data**: Sábado em outubro de 2023 (<span style="color:blue">data específica será divulgada</span>)
-* **Local**: <span style="color:blue">a ser divulgado</span>
+* **Data**: Sábado 11/11/2023
+* **Local**: <span style="color:blue">Ginásio Multidisciplinar da Unicamp</span>
 
 ## Detalhamento das Oficinas
 
