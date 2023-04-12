@@ -14,7 +14,7 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
   * **Horário**: <span style="color:blue">10 às 11:30</span>
 
 
-* **Data**: Sábado 01/04/2023 (<span style="color:green">confirmado</span>)
+* **Data**: Sábado 01/04/2023
   * **Horário**: <span style="color:blue">10 às 11:30</span>
 
 ### Primeiro Encontro
