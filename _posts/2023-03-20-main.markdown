@@ -6,17 +6,15 @@ categories: ["main"]
 
 O Grande Desafio é uma atividade proposta por uma equipe de cientistas e educadores da Unicamp, cuja proposta é estimular a curiosidade sobre o mundo, seus fenômenos e desafios.
 
-### Oficina para Educadores e Orientadores: Grande Desafio
+### 1º Plantão de Testes Grande Desafio
 
 <div style="text-align:center">
-  <img src="/gd/img/oficina-educadores-abril.png">
+  <img src="/gd/img/GD.png">
 </div>
 
-**Sábado 20/05 - das 10h às 11h30** no Museu Exploratório de Ciências da Unicamp
+**Sábado 17/06 - das 9h às 11h30** no Museu Exploratório de Ciências da Unicamp
 
-**Sábado 01/04 - das 10h às 11h30** no Museu Exploratório de Ciências da Unicamp
-
-Não é necessário se inscrever.
+Inscrições: <a href="https://forms.gle/yDYbUFnqEbnQp4yj9" target="_blank">clique aqui</a>.
 
 A oficina é parte do Fim de Semana no Museu - <a href="https://www.mc.unicamp.br/noticias/fim-de-semana-no-museu-da-a-largada-para-o-grande-desafio-com-atividades-para-criancas-e-educadores" target="_blank">clique aqui para detalhes</a>.
 
