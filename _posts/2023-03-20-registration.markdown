@@ -6,7 +6,7 @@ categories: ["registration"]
 ## Inscrições
 
 * **Início das Inscrições**: 20/05/2023
-* **Término das Inscrições**: 11/08/2023
+* **Término das Inscrições**: 31/08/2023
 
 ## Categorias
 
