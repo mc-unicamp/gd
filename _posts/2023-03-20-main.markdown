@@ -6,13 +6,18 @@ categories: ["main"]
 
 O Grande Desafio é uma atividade proposta por uma equipe de cientistas e educadores da Unicamp, cuja proposta é estimular a curiosidade sobre o mundo, seus fenômenos e desafios.
 
-### 1º Plantão de Testes Grande Desafio
+### Oficina de Testes e Prévia de Projetos do Grande Desafio
 
 <div style="text-align:center">
   <img src="/gd/img/plantao_gd_junho2023.png">
 </div>
 
 **Sábado 17/06 - das 9h às 11h30** no Museu Exploratório de Ciências da Unicamp
+
+**Sábado 26/08 - das 9h às 12h** - Oficina de Testes e Prévia de Projetos no Museu Exploratório de Ciências da Unicamp. Em breve programação detalhada.
+
+Inscrições do Grande Desafio até 31/08.
+**Aproveite a oportunidade!** Inscreva-se até domingo (20/08) e participe conosco da Prévia de Projetos (trilha exploratória). Você terá oportunidade de receber feedback e sugestões de um time de especialistas \o/  [Veja detalhes aqui](https://museu.harena.org/gd/calendario/).
 
 Inscrições: <a href="https://forms.gle/yDYbUFnqEbnQp4yj9" target="_blank">clique aqui</a>.
 
