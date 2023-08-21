@@ -9,7 +9,7 @@ O Grande Desafio é uma atividade proposta por uma equipe de cientistas e educad
 ### Oficina de Testes e Prévia de Projetos do Grande Desafio
 
 <div style="text-align:center">
-  <img src="/gd/img/oficina-testes-agosto.png">
+  <img src="/gd/img/oficina-testes-agosto.png" width="50%" height="50%">
 </div>
 
 **Sábado 26/08 - das 9h às 12h** - Oficina de Testes e Prévia de Projetos no Museu Exploratório de Ciências da Unicamp. Em breve programação detalhada.
