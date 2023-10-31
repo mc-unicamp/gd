@@ -6,15 +6,21 @@ categories: ["main"]
 
 O Grande Desafio é uma atividade proposta por uma equipe de cientistas e educadores da Unicamp, cuja proposta é estimular a curiosidade sobre o mundo, seus fenômenos e desafios.
 
-### Oficina de Testes e Prévia de Projetos do Grande Desafio
+### Grande Dia 11/11
 
-<div style="text-align:center">
-  <img src="/gd/img/9. testes GD.png" width="40%" height="40%">
-</div>
-
-**Sábado 28/10 - das 9h às 11h30** - ÚLTIMA Oficina de Testes e Prévia de Projetos no Museu Exploratório de Ciências da Unicamp.
+O Grande Dia está chegando, participe!
 
 GRANDE DIA: 11 de novembro, a partir das 9h, no Ginásio Multidisciplinar da Unicamp.
+
+### Orientações Importantes para Equipes
+
+#### Trilha Exploratória
+Veja instruções de formato e impressão do pôster até 06/11:
+<h5><a href="https://museu.harena.org/gd/trilha-experimental/">Formato e Submissão Pôster</a></h5>
+
+#### Trilha Experimental
+Veja vídeos detalhando o que acontecerá no Grande Dia:
+<h5><a href="https://museu.harena.org/gd/trilha-exploratoria/">Grande Dia da Trilha Experimental</a></h5>
 
 ### Participe do Grande Desafio!
 
@@ -32,6 +38,7 @@ A seguir resumimos os links importantes para você acompanhar o Grande Desafio:
 * [Inscrições](https://museu.harena.org/gd/inscricoes/)
 * [Calendário de Eventos](https://museu.harena.org/gd/calendario/)
 * [Canais de Comunicação](https://museu.harena.org/gd/comunidade/)
+* [Trilha Experimental](https://museu.harena.org/gd/trilha-experimental/)
 * Trilha Exploratória
   * [Passos do Método](https://museu.harena.org/gd/metodo/)
   * [Exemplos de Projeto](https://museu.harena.org/gd/explorando/)
