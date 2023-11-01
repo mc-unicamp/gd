@@ -12,15 +12,30 @@ O Grande Dia está chegando, participe!
 
 GRANDE DIA: 11 de novembro, a partir das 9h, no Ginásio Multidisciplinar da Unicamp.
 
+<br>
+
 ### Orientações Importantes para Equipes
 
-#### Trilha Exploratória
-Veja instruções de formato e impressão do pôster até 06/11:
-<h5><a href="https://museu.harena.org/gd/trilha-exploratoria/">Formato e Submissão Pôster</a></h5>
+<table style="font-size:32px">
+  <tr>
+    <th style="padding:10px;border:2px solid">Trilha Exploratória</th>
+    <th style="padding:10px;border:2px solid">Trilha Experimental</th>
+  </tr>
+  <tr>
+    <td style="padding:10px;border:2px solid">
+      <a href="https://museu.harena.org/gd/trilha-exploratoria/">
+        Formato e impressão<br>do pôster até 06/11
+      </a>
+    </td>
+    <td style="padding:10px;border:2px solid">
+      <a href="https://museu.harena.org/gd/trilha-experimental/">
+        Grande Dia da<br>Trilha Experimental
+      </a>
+    </td>
+  </tr>
+</table>
 
-#### Trilha Experimental
-Veja vídeos detalhando o que acontecerá no Grande Dia:
-<h5><a href="https://museu.harena.org/gd/trilha-experimental/">Grande Dia da Trilha Experimental</a></h5>
+<br>
 
 ### Participe do Grande Desafio!
 
