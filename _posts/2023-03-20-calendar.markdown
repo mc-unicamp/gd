@@ -10,29 +10,30 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
 
 ### Oficina para Orientadores
 
-* **Data**: Sábado 20/05/2023 (<span style="color:green">confirmado</span>)
-  * **Horário**: <span style="color:blue">10 às 11:30</span>
-
-
-* **Data**: Sábado 01/04/2023
-  * **Horário**: <span style="color:blue">10 às 11:30</span>
+* **Data**: Sábado 18/05/2024 (<span style="color:green">confirmado</span>)
+  * **Horário**: <span style="color:blue">9:30 às 11:30</span>
 
 ### Primeiro Encontro
 
 * **Oficina de Testes - trilha experimental**<br>
   **Prévia de Projetos - trilha exploratória**
-  * **Data**: Sábado 26/08/2023
-  * **Importante**: Para participar da Prévia, você precisa se inscrever no Grande Desafio até 20/08.
+  * **Data**: Sábado 17/08/2024
 
 ### Segundo Encontro
 
 * **Oficina de Testes - trilha experimental**<br>
   **Prévia de Resultados - trilha exploratória**
-  * **Data**: Sábado 23/09/2023
+  * **Data**: Sábado 14/09/2024
+
+### Terceiro Encontro
+
+* **Oficina de Testes - trilha experimental**<br>
+  **Prévia de Resultados - trilha exploratória**
+  * **Data**: Sábado 05/10/2024
 
 ## Grande Dia
 
-* **Data**: Sábado 11/11/2023 (<span style="color:green">confirmado</span>)
+* **Data**: Sábado 26/10/2024 (<span style="color:green">confirmado</span>)
 * **Local**: <span style="color:blue">Ginásio Multidisciplinar da Unicamp</span>
 
 ## Detalhamento das Oficinas
