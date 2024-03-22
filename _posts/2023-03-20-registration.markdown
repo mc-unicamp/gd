@@ -5,8 +5,8 @@ categories: ["registration"]
 ---
 ## Inscrições
 
-* **Início das Inscrições**: 20/05/2023
-* **Término das Inscrições**: 31/08/2023
+* **Início das Inscrições**: 20/05/2024
+* **Término das Inscrições**: 31/08/2024
 
 ## Categorias
 
@@ -15,6 +15,7 @@ Cada equipe poderá se inscrever em uma dentre três categorias distintas, de ac
 * **Traquitaninhas**: Estudantes matriculados no Ensino Fundamental I.
 * **Traquitanas**: Estudantes matriculados no Ensino Fundamental II.
 * **Traquitanões**: Estudantes matriculados no Ensino Médio.
+* **Super Traquitanas**: Estudantes matriculados no Ensino Superior.
 
 Cada equipe pode ter de dois a seis participantes de faixas etárias diferentes. Cada equipe concorrerá na categoria do participante de maior escolaridade. Não é necessário que todos os membros sejam da mesma escola.
 
@@ -38,4 +39,4 @@ Cada inscrição de ser feita em duas etapas:
 
 A inscrição só será efetivada após o cumprimento das duas etapas.
 
-### [Clique aqui para a Etapa 1 da Inscrição](https://forms.gle/YtgedKdyeeWAa8BMA)
+Abertura da inscrição em 20/05/2024
