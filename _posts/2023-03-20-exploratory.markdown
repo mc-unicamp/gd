@@ -6,11 +6,8 @@ categories: ["exploratory"]
 
 ## Formato de pôsteres para o Grande Dia
 
-Abaixo segue um modelo do pôster para o Grande Dia.
+Em breve disponibilizaremos o modelo do pôster
 
-<hr>
-<h4><a href="/gd/docs/modelo-poster-gd-2023.pptx">Modelo do Pôster</a></h4>
-<hr>
 
 Observações importantes:
 
@@ -20,20 +17,6 @@ Observações importantes:
 * Os tamanhos das fontes no corpo também são sugestivos.
 * Abusem no uso de ilustrações e diagramas. No site, colocamos um exemplo de ilustração de pôster (não é um pôster para o GD, apresenta apenas uma ideia de ilustração).
 * É importante que vocês repassem os passos do método (https://museu.harena.org/gd/metodo/) onde também damos sugestões de apresentação.
-
-## Impressão do Pôster
-
-A equipe pode imprimir seu pôster por conta própria e levar no Grande Dia ou enviar-nos o pôster para que façamos a impressão.
-
-Importante: Só imprimiremos pôsteres que forem enviados até o dia 06/11.
-
-Submissão do Pôster até 06/11
-
-No link abaixo você submeterá o seu pôster. Só aceitaremos em formato PDF. Para conseguir acessar este formulário, você precisará fazer login em uma conta Google:
-
-<hr>
-<h4><a href="https://forms.gle/kVTxcK7YiKZqampD6">Submeta o seu pôster aqui</a></h4>
-<hr>
 
 ## Como Ilustrar o seu Pôster
 
