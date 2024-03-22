@@ -6,11 +6,11 @@ categories: ["main"]
 
 O Grande Desafio é uma atividade proposta por uma equipe de cientistas e educadores da Unicamp, cuja proposta é estimular a curiosidade sobre o mundo, seus fenômenos e desafios.
 
-### Grande Dia 11/11
+### Grande Dia 26/10
 
 O Grande Dia está chegando, participe!
 
-GRANDE DIA: 11 de novembro, a partir das 9h, no Ginásio Multidisciplinar da Unicamp.
+GRANDE DIA: 26 de outubro, a partir das 9h, no Ginásio Multidisciplinar da Unicamp.
 
 <br>
 
@@ -24,7 +24,7 @@ GRANDE DIA: 11 de novembro, a partir das 9h, no Ginásio Multidisciplinar da Uni
   <tr>
     <td style="padding:10px;border:2px solid">
       <a href="https://museu.harena.org/gd/trilha-exploratoria/">
-        Formato e impressão<br>do pôster até 06/11
+        Informações do Pôster
       </a>
     </td>
     <td style="padding:10px;border:2px solid">
@@ -38,8 +38,7 @@ GRANDE DIA: 11 de novembro, a partir das 9h, no Ginásio Multidisciplinar da Uni
 <br>
 
 ### Participe do Grande Desafio!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EuVZbh3GnAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6_HFH6b-Fw?si=-Sc3I9ZjSL_9ox5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Baixe o Manual:
 
