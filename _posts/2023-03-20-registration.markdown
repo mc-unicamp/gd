@@ -5,7 +5,7 @@ categories: ["registration"]
 ---
 ## Inscrições
 
-* **Início das Inscrições**: 20/05/2024
+* **Início das Inscrições**: 23/05/2024
 * **Término das Inscrições**: 31/08/2024
 
 ## Categorias
@@ -39,4 +39,4 @@ Cada inscrição de ser feita em duas etapas:
 
 A inscrição só será efetivada após o cumprimento das duas etapas.
 
-Abertura da inscrição em 20/05/2024
+Abertura da inscrição em 23/05/2024
