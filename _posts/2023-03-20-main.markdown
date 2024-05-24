@@ -50,7 +50,7 @@ GRANDE DIA: 26 de outubro, a partir das 9h, no Ginásio Multidisciplinar da Unic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QqJqU3dW_NU?si=j-_P1Kb82xuX_UIf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div style="text-align:center">
-  <a href="/gd/docs/Oficina_Orientadores.pdf" target="_blank"><img src="/gd/img/Oficina_Orientadores.png"></a>
+  <a href="/gd/docs/Oficina_Orientadores.pdf" target="_blank"><img src="/gd/img/Oficina_Orientadores.PNG"></a>
 </div>
 
 ### Links Importantes
