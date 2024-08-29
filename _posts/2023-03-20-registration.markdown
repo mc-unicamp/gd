@@ -6,7 +6,7 @@ categories: ["registration"]
 ## Inscrições
 
 * **Início das Inscrições**: 23/05/2024
-* **Término das Inscrições**: 31/08/2024
+* **Término das Inscrições**: 14/09/2024
 
 ## Categorias
 
