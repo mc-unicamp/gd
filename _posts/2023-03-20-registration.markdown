@@ -28,16 +28,5 @@ Quanto mais cedo a equipe começar a trabalhar, mais fácil será a resolução 
 * Para equipes de Instituição Pública: R$ 30,00 
 * Para equipes de Instituição Particular: R$ 90,00
 
-# Inscreva-se aqui
-
-A inscrição pelo orientador ou um adulto responsável.
-
-Cada inscrição de ser feita em duas etapas:
-
-1. Preenchimento do Formulário de Inscrição
-2. Pagamento da Inscrição
-
-A inscrição só será efetivada após o cumprimento das duas etapas.
-
-### [Clique aqui para a Etapa 1 da Inscrição](https://forms.gle/2m3yQuwvZwNKYfXm8)
+## INSCRIÇÕES ENCERRADAS!!!! 
 
