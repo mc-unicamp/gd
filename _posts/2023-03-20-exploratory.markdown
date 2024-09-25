@@ -7,7 +7,7 @@ categories: ["exploratory"]
 ## Formato de pôsteres para o Grande Dia
 
 <div style="text-align:center">
-  <a href="/gd/docs/modelo-poster-gd-2024.pptx" target="_blank">Clique aqui para baixar o manual</a>
+  <a href="/gd/docs/modelo-poster-gd-2024.pptx" target="_blank">Clique aqui para baixar o modelo</a>
 </div>
 
 
