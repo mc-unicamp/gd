@@ -6,8 +6,7 @@ categories: ["exploratory"]
 
 ## Formato de pôsteres para o Grande Dia
 
-Em breve disponibilizaremos o modelo do pôster
-
+[Click Aqui para baixar o arquivo](./gd/docs/modelo-poster-gd-2024.pptx)
 
 Observações importantes:
 
@@ -24,6 +23,4 @@ As equipes devem usar e abusar das ilustrações. Elas serão muito mais valiosa
 
 Apresentamos abaixo um exemplo de ilustração de pôster. Ele não foi apresentado no GD, nem segue o seu modelo. O exemplo serve apenas para ilustrar como elaborar uma apresentação visual em torno de uma ilustração.
 
-<div style="text-align:center">
-  <a href="/gd/docs/modelo-poster-gd-2024.pptx" target="_blank"><img src="/gd/docs/exemplo-poster-gd-2023.png" width="400px"></a>
-</div>
+<img src="/gd/docs/exemplo-poster-gd-2023.png" width="400px">
