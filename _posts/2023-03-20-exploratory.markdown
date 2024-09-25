@@ -24,4 +24,6 @@ As equipes devem usar e abusar das ilustrações. Elas serão muito mais valiosa
 
 Apresentamos abaixo um exemplo de ilustração de pôster. Ele não foi apresentado no GD, nem segue o seu modelo. O exemplo serve apenas para ilustrar como elaborar uma apresentação visual em torno de uma ilustração.
 
-<img src="/gd/docs/exemplo-poster-gd-2023.png" width="400px">
+<div style="text-align:center">
+  <a href="/gd/docs/modelo-poster-gd-2024.pptx" target="_blank"><img src="/gd/docs/exemplo-poster-gd-2023.png" width="400px"></a>
+</div>
