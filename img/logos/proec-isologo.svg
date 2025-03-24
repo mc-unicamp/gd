@@ -6,11 +6,12 @@
    id="Camada_1"
    x="0px"
    y="0px"
-   viewBox="0 0 489.9 98"
-   style="enable-background:new 0 0 489.9 98;"
+   viewBox="0 0 573.90003 216"
    xml:space="preserve"
    sodipodi:docname="proec-isologo.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   width="573.90002"
+   height="216"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +26,9 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="1"
    inkscape:deskcolor="#505050"
-   inkscape:zoom="2.4903042"
-   inkscape:cx="236.91885"
-   inkscape:cy="49.190778"
+   inkscape:zoom="1.2451521"
+   inkscape:cx="106.81426"
+   inkscape:cy="92.759752"
    inkscape:window-width="1920"
    inkscape:window-height="1017"
    inkscape:window-x="-8"
@@ -37,7 +38,7 @@
    type="text/css"
    id="style1">&#10;	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#C3161C;}&#10;	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}&#10;	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;}&#10;</style>&#10;&#10;<g
    id="g46"
-   transform="matrix(1.7874873,0,0,1.9267362,-118.78131,-65.825533)"><g
+   transform="matrix(1.4513026,0,0,1.3599251,0.07967086,6.4547932)"><g
      id="g37"><path
        d="m 16.43,95.62 c -0.58,1.05 -1.48,1.9 -2.69,2.54 -1.21,0.65 -2.71,0.97 -4.5,0.97 H 5.93 V 107 H 0.59 V 85.08 h 8.65 c 1.75,0 3.23,0.3 4.43,0.91 1.21,0.6 2.11,1.44 2.72,2.5 0.6,1.06 0.91,2.28 0.91,3.65 0,1.27 -0.29,2.43 -0.87,3.48 z m -5.31,-1.46 c 0.5,-0.48 0.75,-1.16 0.75,-2.03 0,-0.87 -0.25,-1.55 -0.75,-2.03 -0.5,-0.48 -1.26,-0.72 -2.28,-0.72 h -2.9 v 5.5 h 2.9 c 1.02,0 1.78,-0.24 2.28,-0.72 z"
        id="path1-7" /><path
@@ -136,7 +137,7 @@
            height="13.62"
            id="rect42" /><polygon
            class="cls-2"
-           points="188.23,40.17 231.52,40.17 235.27,40.17 303.29,40.17 303.29,27.75 235.27,27.75 231.52,27.75 188.23,27.75 188.23,19.58 233.74,19.58 233.74,6.22 169.82,6.22 169.82,62.98 233.74,62.98 233.74,49.36 188.23,49.36 "
+           points="303.29,40.17 303.29,27.75 235.27,27.75 231.52,27.75 188.23,27.75 188.23,19.58 233.74,19.58 233.74,6.22 169.82,6.22 169.82,62.98 233.74,62.98 233.74,49.36 188.23,49.36 188.23,40.17 231.52,40.17 235.27,40.17 "
            id="polygon42" /><rect
            class="cls-1"
            x="240.21001"
