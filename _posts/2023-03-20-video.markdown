@@ -1,13 +1,1 @@
----
-title: Orientações sobre o Vídeo Desafio
-layout: pages
-categories: ["video"]
----
-## Vídeo Desafio
 
-Que tal envolver toda a sua comunidade e mostrar o projeto de sua equipe para todo o mundo?
-
-Participe da competição de melhor vídeo do GD 2024!
-
-### Increvendo seu Vídeo
-Em breve mais informações 
