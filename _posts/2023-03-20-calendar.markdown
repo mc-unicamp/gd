@@ -10,30 +10,24 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
 
 ### Oficina para Orientadores
 
-* **Data**: Sábado 18/05/2024 
+* **Data**: Sábado 26/04/2025
   * **Horário**: <span style="color:blue">9:30 às 11:30</span>
 
 ### Primeiro Encontro
 
 * **Oficina de Testes - trilha experimental**<br>
   **Prévia de Projetos - trilha exploratória**
-  * **Data**: Sábado 24/08/2024
+  * **Data**: Sábado 30/08/2025
 
 ### Segundo Encontro
 
 * **Oficina de Testes - trilha experimental**<br>
   **Prévia de Resultados - trilha exploratória**
-  * **Data**: Sábado 14/09/2024
-
-### Terceiro Encontro
-
-* **Oficina de Testes - trilha experimental**<br>
-  **Prévia de Resultados - trilha exploratória**
-  * **Data**: Sábado 05/10/2024
+  * **Data**: Sábado 27/09/2025
 
 ## Grande Dia
 
-* **Data**: Sábado 26/10/2024 (<span style="color:green">confirmado</span>)
+* **Data**: Sábado 11/10/2025 (<span style="color:green">confirmado</span>)
 * **Local**: <span style="color:blue">Ginásio Multidisciplinar da Unicamp</span>
 
 ## Detalhamento das Oficinas
