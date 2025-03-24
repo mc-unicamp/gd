@@ -23,10 +23,3 @@ Cada equipe pode ter de dois a seis participantes de faixas etárias diferentes.
 
 Quanto mais cedo a equipe começar a trabalhar, mais fácil será a resolução e a preparação para o Grande Dia.
 
-## Taxas de Inscrição 
-
-* Para equipes de Instituição Pública: R$ 30,00 
-* Para equipes de Instituição Particular: R$ 90,00
-
-## INSCRIÇÕES ENCERRADAS!!!! 
-
