@@ -4,14 +4,32 @@ layout: pages
 categories: ["diary"]
 ---
 
-Não esqueça de documentar a jornada de sua equipe!
+Não esqueça de documentar a jornada da sua equipe!
+A documentação é essencial na Ciência! É por meio dela que pesquisadores organizam suas ideias, registram informações importantes e acompanham a evolução de suas pesquisas. Além disso, uma boa documentação permite que o conhecimento seja compartilhado com a comunidade científica, facilitando novos avanços.
 
-A documentação é fundamental na Ciência. É com ela que os pesquisadores organizam as suas ideias, registram informações importantes e acompanham a evolução da própria pesquisa. A documentação também é fundamental para que a pesquisa seja divulgada para a comunidade e para que outros pesquisadores possam tomar conhecimento de pesquisas feitas por colegas, a fim de buscar avanços.
+Ao longo da preparação para o desafio, muitas decisões serão tomadas e problemas precisarão ser resolvidos. Para garantir que nada se perca, é fundamental registrar todos os passos da equipe. O diário de campo será um recurso valioso para acompanhar o desenvolvimento do projeto, revisitar ideias e avaliar as estratégias adotadas.
 
-Muita coisa vai acontecer no processo até o Grande Dia, por isso é importante registrar todos os passos. Isso os ajudará a documentar a experiência, a relembrar das decisões tomadas e problemas resolvidos. Registre as ideias, inspirações, todo o material e as ferramentas utilizadas, as características das plantas utilizadas, os orçamentos e tome nota do que aconteceu em cada encontro. Coloque desenhos, esboços e tire fotos do projeto. Você também pode comentar as dificuldades encontradas durante o processo de construção e como fizeram para solucioná-las, contar como a equipe utilizou o toró de ideias, etc. Faça um diário para registrar tudo o que aconteceu durante o desenvolvimento do projeto, e os principais fenômenos observados. Registre neste Diário de Campo o máximo possível de informações, pois este material será apresentado aos avaliadores. 
+O que registrar?
 
-As Figuras a seguir mostram exemplos de diários de campo de equipes de um Desafio anterior. O diário de campo pode ter desenhos e fotos mostrando os encontros e os testes que a equipe fez, entrevistas, projetos, contabilidade e notas fiscais para controle do orçamento.
+Ideias e inspirações da equipe.
 
+Materiais e ferramentas utilizadas.
+
+Características dos elementos do projeto.
+
+Orçamentos e registros financeiros.
+
+Desafios enfrentados e soluções encontradas.
+
+Esboços, desenhos técnicos e fotos dos experimentos.
+
+Métodos de brainstorming e decisões tomadas.
+
+Quanto mais detalhado for o diário, mais rica será a documentação da jornada da equipe. Esse material será avaliado pelos juízes, por isso, caprichem nos registros!
+
+Os diários de campo podem ser elaborados de diferentes formas: cadernos escritos à mão, textos digitados ou até apresentações digitais durante a fase de desenvolvimento. No entanto, no dia da competição, o diário deverá ser entregue fisicamente no momento da fila antes da entrada na arena. Isso significa que não serão aceitos diários em formato digital, como apresentações de slides em tablets ou notebooks.
+
+Organizem bem as informações, definam um cronograma de reuniões e distribuam as tarefas da equipe. Um diário de campo bem estruturado não apenas ajudará na competição, mas também servirá como uma memória valiosa da experiência vivida!
 <br>
 
 <div align="center">  
@@ -33,5 +51,3 @@ As Figuras a seguir mostram exemplos de diários de campo de equipes de um Desaf
 </div>
 
 <br>
-
-Os Diários de Campo podem ser confeccionados em diversos formatos: cadernos escritos à mão, textos digitados, ou mesmo na forma de apresentação de slides. Para diários em formato eletrônico, a própria equipe deve trazer equipamento (notebook ou tablet) com programa adequado para apresentação no Grande Dia, pois este não será disponibilizado pela equipe organizadora. É importante montar o calendário de reuniões, o cronograma e a distribuição das tarefas no grupo.
