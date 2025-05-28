@@ -11,7 +11,7 @@ categories: ["registration"]
 
 ## Categorias
 
-Cada equipe poderá se inscrever em uma dentre três categorias distintas, de acordo com a escolaridade dos integrantes:
+Cada equipe poderá se inscrever em uma dentre quatro categorias distintas, de acordo com a escolaridade dos integrantes:
 
 - **Traquitaninhas**: Estudantes matriculados no Ensino Fundamental I.  
 - **Traquitanas**: Estudantes matriculados no Ensino Fundamental II.  
@@ -34,4 +34,7 @@ Quanto mais cedo a equipe começar a trabalhar, mais fácil será a resolução 
 
 👉 Para se inscrever, clique no link abaixo:  
 [https://forms.gle/CkpuzQDSvtXbfXCW6](https://forms.gle/CkpuzQDSvtXbfXCW6)
+
+
+---
 
