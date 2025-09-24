@@ -32,7 +32,7 @@ Cada equipe concorrerá na categoria do participante de maior escolaridade.
 **Não perca tempo!**  
 Quanto mais cedo a equipe começar a trabalhar, mais fácil será a resolução e a preparação para o Grande Dia.
 
-👉 Incrições ENCERRADAS!!!!
+👉 Inscrições ENCERRADAS!!!!
 
 
 ---
