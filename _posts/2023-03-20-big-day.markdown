@@ -3,18 +3,64 @@ title: Grande Dia
 layout: pages
 categories: ["bigday"]
 ---
+
 O Grande Dia é longo e muito intenso. Além das tarefas do Desafio, haverá atividades culturais e recreativas! Traga sua família, seus amigos e sua torcida! Há um limite de horário que as equipes participantes podem chegar para poder realizar todas as tarefas necessárias. Chegando mais tarde, há grande risco de não haver tempo para cumprir todas as tarefas. Programe-se! Este horário limite também está publicado no site do Grande Desafio.
 
 Qualquer mudança no horário será previamente anunciada.
 
-### O que vai acontecer
+---
 
-No Grande Dia diversos procedimentos devem ser feitos pelas equipes:  credenciamento, entrevista com apresentação do caderno de campo, exposição do pôster, foto oficial e operação do(s) equipamentos(s) na arena.
+## Trilha Experimental
+
+### Explicação da trilha experimental
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ALmTuAKHQJM?si=0lipBrK4TTEhexZ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Simulação da arena de testes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/splz5d7aROQ?si=YOhSmsowrieAeKkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Informações importantes para a Trilha Experimental
+
+- **Data do evento:** 11/10/2025 (sábado)  
+- **Local:** Ginásio Multidisciplinar da UNICAMP (GMU)  
+- **Endereço:** R. Elis Regina, 131 – Cidade Universitária, Campinas – SP  
+- **Credenciamento:** das 8h às 9h  
+- **Início dos testes:** 9h  
+- **Encerramento das apresentações:** 12h  
+- **Show da Física:** das 12h às 13h  
+- **Premiação:** às 13h  
+- **Alimentação:** Barracas de comida na parte externa do evento
+
+---
+
+## Trilha Exploratória
+
+### Explicação do Grande Dia da trilha exploratória
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMNx79LIW1o?si=Xq-P6AJm-P9xi6HN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Informações importantes para a Trilha Exploratória
+
+- **Data do evento:** 11/10/2025 (sábado)  
+- **Local:** Ginásio Multidisciplinar da UNICAMP (GMU)  
+- **Endereço:** R. Elis Regina, 131 – Cidade Universitária, Campinas – SP  
+- **Credenciamento:** das 8h às 9h  
+- **Início das apresentações:** 9h  
+- **Encerramento das apresentações:** 12h  
+- **Show da Física:** das 12h às 13h  
+- **Premiação:** às 13h  
+- **Alimentação:** Barracas de comida na parte externa do evento
+
+---
+
+## O que vai acontecer
+
+No Grande Dia diversos procedimentos devem ser feitos pelas equipes:  credenciamento, entrevista com apresentação do caderno de campo, exposição do pôster, foto oficial e operação do(s) equipamentos(s) na arena.  
 A programação exata do Grande Dia será publicada nos canais de comunicação do Museu Exploratório de Ciências.
 
 **A equipe pode vir fantasiada, trazer cartazes e torcida. Aproveite!**
 
-### O que cada equipe deve trazer
+---
+
+## O que cada equipe deve trazer
 
 * o material para demonstração de sua solução na maquete;
 * diário de campo;
@@ -24,12 +70,17 @@ A programação exata do Grande Dia será publicada nos canais de comunicação 
 * o formulário de credenciamento preenchido;
 * é opcional trazer cartazes, fantasias e torcida.
 
-### Atenção
+---
+
+## Atenção
 
 A equipe do Grande Desafio não disponibiliza computadores, nem pilhas, nem tomadas para o carregamento de qualquer equipamento. É recomendável trazer pilhas extras caso sejam necessárias!
 
 Caso a equipe utilize controle remoto, recomendamos usar preferencialmente os controles remotos com fio, pois em edições anteriores do Grande Desafio algumas equipes enfrentaram problemas com interferência de sinal dos controles remotos de outras equipes. A organização do Grande Desafio não tem como solucionar este tipo de situação.
 
-### Recomendações
+---
+
+## Recomendações
 
 Evite chegar em cima da hora ou atrasado. Verifique horários de ônibus ou, se for de carro até o local, verifique com antecedência o caminho.
+
