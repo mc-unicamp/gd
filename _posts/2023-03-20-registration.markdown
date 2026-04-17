@@ -6,8 +6,8 @@ categories: ["registration"]
 
 ## Inscrições
 
-- **Início das Inscrições**: 28/05/2025  
-- **Término das Inscrições**: 23/09/2025
+- **Início das Inscrições**: 20/06/2026  
+- **Término das Inscrições**: 27/09/2026
 
 ## Categorias
 
@@ -31,8 +31,6 @@ Cada equipe concorrerá na categoria do participante de maior escolaridade.
 
 **Não perca tempo!**  
 Quanto mais cedo a equipe começar a trabalhar, mais fácil será a resolução e a preparação para o Grande Dia.
-
-👉 Inscrições ENCERRADAS!!!!
 
 
 ---
