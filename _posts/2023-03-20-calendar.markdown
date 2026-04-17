@@ -4,42 +4,32 @@ layout: pages
 categories: ["calendar"]
 ---
 
-Todas as oficinas prévias ao Grande Dia serão realizadas no Museu Exploratório de Ciências da Unicamp, aos sábados, em conjunto com a programação do Fim de Semana no Museu.
+Todas as oficinas prévias ao Grande Dia serão realizadas no Museu Exploratório de Ciências da Unicamp, aos sábados.
 
 O calendário segue o planejamento anual do Museu. Qualquer mudança resultante de eventos imprevistos será divulgada com antecedência nesta página.
 
 ### Oficina para Orientadores
 
-* **Data**: Sábado 10/05/2025
+* **Data**: Sábado 20/06/2026
   * **Horário**: <span style="color:blue">9:30 às 11:30</span>
+  * **Presencial e online**
 
 ### Primeiro Encontro
 
 * **Oficina de Testes - trilha experimental**<br>
   **Prévia de Projetos - trilha exploratória**
-  * **Data**: Sábado 30/08/2025
+  * **Data**: Sábado 15/08/2026
  
-    
-### Tira-Dúvidas ONLINE – Trilha Experimental
-
-Equipes da **Trilha Experimental** do Grande Desafio,
-
-No **sábado, 13 de setembro**, das **09h30 às 10h30**, realizaremos um encontro online para tirar dúvidas, esclarecer pontos importantes e orientar os próximos passos da competição.
-
-**Data:** Sábado · 13/09  
-**Horário:** 09h30 às 10h30  
-**Local:** Google Meet  
-**Link da reunião:** [https://meet.google.com/gjb-bcnq-ufz](https://meet.google.com/gjb-bcnq-ufz)
 
 ### Segundo Encontro
 
 * **Oficina de Testes - trilha experimental**<br>
   **Prévia de Resultados - trilha exploratória**
-  * **Data**: Sábado 27/09/2025
+  * **Data**: Sábado 19/09/2026
 
 ## Grande Dia
 
-* **Data**: Sábado 11/10/2025 (<span style="color:green">confirmado</span>)
+* **Data**: Sábado 10/10/2026 (<span style="color:green">confirmado</span>)
 * **Local**: <span style="color:blue">Ginásio Multidisciplinar da Unicamp</span>
 
 ## Detalhamento das Oficinas
