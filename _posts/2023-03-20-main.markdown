@@ -6,11 +6,11 @@ categories: ["main"]
 
 O Grande Desafio é uma atividade proposta por uma equipe de cientistas e educadores da Unicamp, cuja proposta é estimular a curiosidade sobre o mundo, seus fenômenos e desafios.
 
-### Grande Dia 11/10
+### Grande Dia 10/10
 
 O Grande Dia está chegando, participe!
 
-GRANDE DIA: 11 de outubro, a partir das 9h, no Ginásio Multidisciplinar da Unicamp.
+GRANDE DIA: 10 de outubro, a partir das 9h, no Ginásio Multidisciplinar da Unicamp.
 
 <br>
 
@@ -38,16 +38,15 @@ GRANDE DIA: 11 de outubro, a partir das 9h, no Ginásio Multidisciplinar da Unic
 <br>
 
 ### Participe do Grande Desafio!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WApTkaBtKQQ?si=gYyZFQYqejm1H64o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Baixe o Manual:
 
 <div style="text-align:center">
-  <a href="/gd/docs/manual-grande-desafio-2025.pdf" target="_blank"><img src="/gd/img/capa-manual.png"></a>
+  <a href="/gd/docs/manual-grande-desafio-2026.pdf" target="_blank"><img src="/gd/img/capa-manual.png"></a>
 </div>
 
 ### Oficina para os Orientadores!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e-kWVlwtnAw?si=04Pt-4W50-fR9J-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Links Importantes
 
