@@ -6,7 +6,7 @@ categories: ["registration"]
 
 ## Inscrições
 
-- **Início das Inscrições**: 20/06/2026  
+- **Início das Inscrições**: 22/06/2026  
 - **Término das Inscrições**: 27/09/2026
 
 ## Categorias
@@ -24,8 +24,8 @@ Cada equipe concorrerá na categoria do participante de maior escolaridade.
 
 ## Valores
 
-- **Escola Pública**: R$ 35,00 por equipe  
-- **Escola Particular**: R$ 95,00 por equipe
+- **Escola Pública**: R$ 40,00 por equipe  
+- **Escola Particular**: R$ 100,00 por equipe
 
 ---
 
