@@ -1,20 +1,13 @@
-.navbar {
-    position: relative !important;
-    top: auto !important;
-    margin-bottom: 0;
-    z-index: 10;
-}
-
-.navbar-brand {
-    height: auto;
-}
-
 .navbar-brand img {
-    display: inline-block;
     height: auto;
+    max-height: none;
 }
 
-.header,
-.header-pages {
-    clear: both;
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+body {
+    padding-top: 0 !important;
 }
