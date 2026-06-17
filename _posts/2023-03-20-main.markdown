@@ -20,7 +20,7 @@ Em 2026, o tema é:
 
 ---
 
-## 🎥 Live de Lançamento do Manual
+## Live de Lançamento do Manual
 
 <div class="gd-video">
 <iframe src="https://www.youtube.com/embed/pAEvnPjdmm4?si=v_H6-Drhg0md1K7H" title="YouTube video player" allowfullscreen></iframe>
@@ -44,7 +44,7 @@ Em 2026, o tema é:
 
 ---
 
-## 👨‍🏫 Oficina para Orientadores
+## Oficina para Orientadores
 
 <div class="gd-card" markdown="1">
 
@@ -58,7 +58,7 @@ A oficina é destinada aos orientadores das equipes participantes e tem como obj
 
 ---
 
-## 🚀 Grande Dia
+## Grande Dia
 
 <div class="gd-card" markdown="1">
 
@@ -72,7 +72,7 @@ O Grande Dia está chegando! Prepare sua equipe e participe desta grande celebra
 
 ---
 
-## 📋 Orientações Importantes para as Equipes
+## Orientações Importantes para as Equipes
 
 <div class="gd-grid">
 
@@ -100,7 +100,7 @@ Informações sobre a arena, voo e avaliação dos protótipos.
 
 ---
 
-## 🔗 Links Importantes
+## Links Importantes
 
 <div class="gd-card" markdown="1">
 
