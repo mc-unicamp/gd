@@ -120,10 +120,3 @@ Informações sobre a arena, voo e avaliação dos protótipos.
 </ul>
 
 </div>
-
-</div>
-```
-
-- [Orientações sobre o Diário de Campo](https://museu.harena.org/gd/diario/)
-- [Orientações para a Equipe](https://museu.harena.org/gd/equipe/)
-- [Sobre o Grande Dia](https://museu.harena.org/gd/grande-dia/)
