@@ -1,13 +1,54 @@
-.navbar-brand img {
-    height: auto;
-    max-height: none;
-}
-
-.navbar-default {
-    background-color: transparent;
-    border-color: transparent;
-}
-
 body {
-    padding-top: 0 !important;
+    webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+table {
+    border: 1px solid darkgray;
+}
+
+tr {
+    border: 1px solid darkgray;
+}
+
+/* ============================= */
+/* AJUSTES DO CABEÇALHO - GD 2026 */
+/* ============================= */
+
+.navbar,
+.navbar-default,
+.navbar-fixed-top,
+.navbar-brand {
+    all: unset;
+}
+
+.header,
+.header-pages {
+    display: block;
+    width: 100%;
+    clear: both;
+}
+
+.header img,
+.header-pages img {
+    max-width: none;
+}
+
+.logo-proec {
+    width: 120px !important;
+    height: auto !important;
+}
+
+.logo-museu {
+    width: 240px !important;
+    height: auto !important;
+}
+
+@media (max-width: 768px) {
+    .logo-proec {
+        width: 80px !important;
+    }
+
+    .logo-museu {
+        width: 170px !important;
+    }
 }
