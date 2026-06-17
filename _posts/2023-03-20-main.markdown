@@ -4,35 +4,41 @@ layout: default
 categories: ["main"]
 ---
 
+<div class="gd-page" markdown="1">
+
 # Bem-vindo ao 14º Grande Desafio
 
 O Grande Desafio é uma atividade proposta por cientistas e educadores da Unicamp com o objetivo de estimular a curiosidade, a criatividade e o pensamento científico por meio de desafios reais e multidisciplinares.
 
+<div class="gd-theme-box" markdown="1">
+
 Em 2026, o tema é:
 
-> **Como as ciências nos fazem viajar no espaço-tempo?**
+**Como as ciências nos fazem viajar no espaço-tempo?**
+
+</div>
 
 ---
 
 ## 🎥 Live de Lançamento do Manual
 
-<div align="center">
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/pAEvnPjdmm4?si=v_H6-Drhg0md1K7H" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-
+<div class="gd-video">
+<iframe src="https://www.youtube.com/embed/pAEvnPjdmm4?si=v_H6-Drhg0md1K7H" title="YouTube video player" allowfullscreen></iframe>
 </div>
 
 ---
 
 ## 📖 Manual do 14º Grande Desafio
 
-<div align="center">
+<div class="gd-card gd-manual">
 
 <a href="/gd/docs/manual-grande-desafio-2026.pdf" target="_blank">
-<img src="/gd/img/capa-manual.png" alt="Manual do 14º Grande Desafio" width="300">
+<img src="/gd/img/capa-manual.png" alt="Manual do 14º Grande Desafio">
 </a>
 
-### Clique na imagem para baixar o manual completo
+<br>
+
+<a class="gd-button" href="/gd/docs/manual-grande-desafio-2026.pdf" target="_blank">Baixar Manual</a>
 
 </div>
 
@@ -40,15 +46,21 @@ Em 2026, o tema é:
 
 ## 👨‍🏫 Oficina para Orientadores
 
+<div class="gd-card" markdown="1">
+
 **Data:** Sábado, 01/08/2026  
 **Horário:** 9h30 às 11h30  
 **Local:** Museu Exploratório de Ciências da UNICAMP
 
 A oficina é destinada aos orientadores das equipes participantes e tem como objetivo apresentar o funcionamento do Grande Desafio, esclarecer dúvidas sobre as trilhas e fornecer orientações para o acompanhamento das equipes ao longo do desenvolvimento dos projetos.
 
+</div>
+
 ---
 
 ## 🚀 Grande Dia
+
+<div class="gd-card" markdown="1">
 
 **Data:** 10 de outubro de 2026  
 **Horário:** A partir das 9h  
@@ -56,35 +68,61 @@ A oficina é destinada aos orientadores das equipes participantes e tem como obj
 
 O Grande Dia está chegando! Prepare sua equipe e participe desta grande celebração da ciência.
 
+</div>
+
 ---
 
 ## 📋 Orientações Importantes para as Equipes
 
-| Trilha Exploratória | Trilha Experimental |
-|---------------------|---------------------|
-| [Informações sobre pôsteres, apresentações e avaliação](https://museu.harena.org/gd/trilha-exploratoria/) | [Informações sobre a arena, voo e avaliação dos protótipos](https://museu.harena.org/gd/trilha-experimental/) |
+<div class="gd-grid">
+
+<div class="gd-info-card" markdown="1">
+
+### Trilha Exploratória
+
+Informações sobre pôsteres, apresentações e avaliação.
+
+<a class="gd-button" href="https://museu.harena.org/gd/trilha-exploratoria/">Acessar</a>
+
+</div>
+
+<div class="gd-info-card" markdown="1">
+
+### Trilha Experimental
+
+Informações sobre a arena, voo e avaliação dos protótipos.
+
+<a class="gd-button" href="https://museu.harena.org/gd/trilha-experimental/">Acessar</a>
+
+</div>
+
+</div>
 
 ---
 
 ## 🔗 Links Importantes
 
+<div class="gd-card" markdown="1">
+
 ### Participação
 
-- [Inscrições](https://museu.harena.org/gd/inscricoes/)
-- [Calendário de Eventos](https://museu.harena.org/gd/calendario/)
-- [Canais de Comunicação](https://museu.harena.org/gd/comunidade/)
+<ul class="gd-links">
+<li><a href="https://museu.harena.org/gd/inscricoes/">Inscrições</a></li>
+<li><a href="https://museu.harena.org/gd/calendario/">Calendário de Eventos</a></li>
+<li><a href="https://museu.harena.org/gd/comunidade/">Canais de Comunicação</a></li>
+<li><a href="https://museu.harena.org/gd/trilha-experimental/">Trilha Experimental</a></li>
+<li><a href="https://museu.harena.org/gd/metodo/">Passos do Método</a></li>
+<li><a href="https://museu.harena.org/gd/explorando/">Exemplos de Projeto</a></li>
+<li><a href="https://museu.harena.org/gd/trilha-exploratoria/">Trilha Exploratória</a></li>
+<li><a href="https://museu.harena.org/gd/diario/">Orientações sobre o Diário de Campo</a></li>
+<li><a href="https://museu.harena.org/gd/equipe/">Orientações para a Equipe</a></li>
+<li><a href="https://museu.harena.org/gd/grande-dia/">Sobre o Grande Dia</a></li>
+</ul>
 
-### Trilha Experimental
+</div>
 
-- [Informações da Trilha Experimental](https://museu.harena.org/gd/trilha-experimental/)
-
-### Trilha Exploratória
-
-- [Passos do Método](https://museu.harena.org/gd/metodo/)
-- [Exemplos de Projeto](https://museu.harena.org/gd/explorando/)
-- [Grande Dia e Apresentações](https://museu.harena.org/gd/trilha-exploratoria/)
-
-### Materiais de Apoio
+</div>
+```
 
 - [Orientações sobre o Diário de Campo](https://museu.harena.org/gd/diario/)
 - [Orientações para a Equipe](https://museu.harena.org/gd/equipe/)
