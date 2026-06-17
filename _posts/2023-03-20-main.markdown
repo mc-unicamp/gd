@@ -28,7 +28,7 @@ Em 2026, o tema é:
 
 ---
 
-## 📖 Manual do 14º Grande Desafio
+## Manual do 14º Grande Desafio
 
 <div class="gd-card gd-manual">
 
