@@ -1,23 +1,46 @@
-<!-- Navigation -->
-<nav class="navbar navbar-default navbar-fixed-top">
-    <div class="container">
-        <div class="navbar-header page-scroll">
+<!-- Header principal -->
+<header class="header" style="
+    position: relative;
+    height: 420px;
+    margin: 0;
+    padding: 0;
+    background-image: url('{{ site.baseurl }}/img/header-bg.png');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+">
 
-            <a class="navbar-brand page-scroll" href="https://www.proec.unicamp.br/" target="_blank">
-                <img class="logo-proec" src="img/logos/proec-isologo.svg">
-            </a>
+    <!-- Logos -->
+    <div style="
+        position: absolute;
+        top: 35px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 30px;
+        width: 90%;
+        max-width: 760px;
+        z-index: 2;
+    ">
 
-            <a class="navbar-brand page-scroll" href="#page-top">
-                <img class="logo-museu" src="img/logos/mc.svg">
-            </a>
+        <a href="https://www.proec.unicamp.br/" target="_blank">
+            <img 
+                src="{{ site.baseurl }}/img/logos/proec-isologo.svg" 
+                alt="PROEEC"
+                style="width: 120px; height: auto; display: block;"
+            >
+        </a>
 
-        </div>
+        <a href="{{ site.baseurl }}/">
+            <img 
+                src="{{ site.baseurl }}/img/logos/mc.svg" 
+                alt="Museu Exploratório de Ciências"
+                style="width: 240px; height: auto; display: block;"
+            >
+        </a>
+
     </div>
-</nav>
 
-<!-- Header -->
-<header class="header">
-    <div class="container">
-        <div class="intro-text"></div>
-    </div>
 </header>
