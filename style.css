@@ -1,3 +1,20 @@
----
-layout: style
----
+.navbar {
+    position: relative !important;
+    top: auto !important;
+    margin-bottom: 0;
+    z-index: 10;
+}
+
+.navbar-brand {
+    height: auto;
+}
+
+.navbar-brand img {
+    display: inline-block;
+    height: auto;
+}
+
+.header,
+.header-pages {
+    clear: both;
+}
