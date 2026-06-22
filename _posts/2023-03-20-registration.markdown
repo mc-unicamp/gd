@@ -4,7 +4,7 @@ title: Inscrições no Grande Desafio
 layout: pages
 categories: ["registration"]
 
-
+---
 ## Inscrições abertas
 
 As inscrições para o **14º Grande Desafio** já estão abertas!
