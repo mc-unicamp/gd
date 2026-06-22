@@ -3,7 +3,7 @@
 title: Inscrições no Grande Desafio
 layout: pages
 categories: ["registration"]
-----------------------------
+
 
 ## Inscrições abertas
 
