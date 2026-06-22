@@ -1,4 +1,5 @@
 ---
+
 title: Página Principal
 layout: default
 categories: ["main"]
@@ -15,6 +16,20 @@ O Grande Desafio é uma atividade proposta por cientistas e educadores da Unicam
 Em 2026, o tema é:
 
 **Como as ciências nos fazem viajar no espaço-tempo?**
+
+</div>
+
+---
+
+## Inscrições abertas
+
+<div class="gd-card" markdown="1">
+
+As inscrições para o **14º Grande Desafio** já estão abertas!
+
+As equipes interessadas devem acessar a página de inscrições, conferir as orientações e preencher o formulário dentro do prazo.
+
+<a class="gd-button" href="https://museu.harena.org/gd/inscricoes/">Acessar inscrições</a>
 
 </div>
 
@@ -48,8 +63,8 @@ Em 2026, o tema é:
 
 <div class="gd-card" markdown="1">
 
-**Data:** Sábado, 01/08/2026  
-**Horário:** 9h30 às 11h30  
+**Data:** Sábado, 01/08/2026
+**Horário:** 9h30 às 11h30
 **Local:** Museu Exploratório de Ciências da UNICAMP
 
 A oficina é destinada aos orientadores das equipes participantes e tem como objetivo apresentar o funcionamento do Grande Desafio, esclarecer dúvidas sobre as trilhas e fornecer orientações para o acompanhamento das equipes ao longo do desenvolvimento dos projetos.
@@ -62,8 +77,8 @@ A oficina é destinada aos orientadores das equipes participantes e tem como obj
 
 <div class="gd-card" markdown="1">
 
-**Data:** 10 de outubro de 2026  
-**Horário:** A partir das 9h  
+**Data:** 10 de outubro de 2026
+**Horário:** A partir das 9h
 **Local:** Ginásio Multidisciplinar da UNICAMP (GMU)
 
 O Grande Dia está chegando! Prepare sua equipe e participe desta grande celebração da ciência.
@@ -118,5 +133,7 @@ Informações sobre a arena, voo e avaliação dos protótipos.
 <li><a href="https://museu.harena.org/gd/equipe/">Orientações para a Equipe</a></li>
 <li><a href="https://museu.harena.org/gd/grande-dia/">Sobre o Grande Dia</a></li>
 </ul>
+
+</div>
 
 </div>
