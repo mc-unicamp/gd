@@ -1,190 +1,651 @@
-<!-- Portfolio Grid Section -->
+<!-- PAGAMENTO GRANDE DESAFIO 2026 -->
+
 <script>
-    function realizaDoacao() {
-      const required = ["equipe", "trilha", "nomeparticipante", "numerodocumento", "cep", "endereco", "bairro", "cidade", "uf", "celular", "email", "formapagamento", "valor"];
-      const fieldName = ["Nome da Equipe", "Trilha", "Nome Completo", "Número do Documento", "CEP", "Endereço", "Bairro", "Cidade", "UF", "Celular", "Email", "Forma de Pagamento", "Valor"];
+function realizaPagamento(event) {
 
-      let d = new Date();
+    // Impede o envio imediato
+    event.preventDefault();
 
-      let dia = d.getDay().toString();
-      let mes = d.getMonth().toString();
-      let ano = d.getYear().toString();
-      let h = d.getHours().toString();
-      let m = d.getMinutes().toString();
-      let s = d.getSeconds().toString();
+    const camposObrigatorios = [
+        { id: "equipe", nome: "Nome da Equipe" },
+        { id: "trilha", nome: "Trilha" },
+        { id: "nomeparticipante", nome: "Nome Completo" },
+        { id: "numerodocumento", nome: "Número do Documento" },
+        { id: "cep", nome: "CEP" },
+        { id: "endereco", nome: "Endereço" },
+        { id: "numero", nome: "Número" },
+        { id: "bairro", nome: "Bairro" },
+        { id: "cidade", nome: "Cidade" },
+        { id: "uf", nome: "Estado" },
+        { id: "celular", nome: "Celular" },
+        { id: "email", nome: "E-mail" },
+        { id: "formapagamento", nome: "Forma de Pagamento" },
+        { id: "valor", nome: "Valor" }
+    ];
 
-      let chave = Math.floor(Math.random() * (9000 - 1 + 1)) + 1;
-      let strchave = dia + mes + h + m + s + chave.toString();
+    const mensagemErro = document.getElementById("mensagem-erro");
 
-      document.querySelector("#numeropedido").value = strchave;
+    mensagemErro.innerHTML = "";
 
-      let emptyField = -1;
-      for (let r in required) {
-        let field = document.querySelector("#" + required[r]);
-        console.log(field.value);
-        if (field.value.trim().length == 0) {
-          emptyField = r
-          break
+    // Verifica os campos obrigatórios
+    for (const campoInfo of camposObrigatorios) {
+
+        const campo = document.getElementById(campoInfo.id);
+
+        if (!campo || campo.value.trim() === "") {
+
+            mensagemErro.innerHTML =
+                "O campo " + campoInfo.nome + " é obrigatório.";
+
+            if (campo) {
+                campo.focus();
+            }
+
+            return false;
         }
-      }
-      if (emptyField == -1) {
-        document.querySelector('#nome').value =
-          document.querySelector('#nomeparticipante').value + " - " +
-          document.querySelector('#equipe').value + " - " +
-          document.querySelector('#trilha').value
-
-        document.querySelector('#descricao').value =
-          "Inscrição no Grande Desafio 2026 da equipe: " +
-          document.querySelector('#equipe').value + " na Trilha " +
-          document.querySelector('#trilha').value
-
-        document.querySelector("#formulario-pagamento").submit();
-      } else
-        document.querySelector("#mensagem-erro").innerHTML = "O campo " +
-          fieldName[emptyField] + " é obrigatório";
     }
-  </script>
 
-  <!-- Create a section to place page content -->
-  <main role="main">
+    // --------------------------------------------------------
+    // GERA NÚMERO ÚNICO PARA O PEDIDO
+    // --------------------------------------------------------
+
+    const agora = new Date();
+
+    const ano = agora.getFullYear();
+    const mes = String(agora.getMonth() + 1).padStart(2, "0");
+    const dia = String(agora.getDate()).padStart(2, "0");
+    const hora = String(agora.getHours()).padStart(2, "0");
+    const minuto = String(agora.getMinutes()).padStart(2, "0");
+    const segundo = String(agora.getSeconds()).padStart(2, "0");
+
+    const aleatorio = Math.floor(1000 + Math.random() * 9000);
+
+    const numeroPedido =
+        ano +
+        mes +
+        dia +
+        hora +
+        minuto +
+        segundo +
+        aleatorio;
+
+    document.getElementById("numeropedido").value = numeroPedido;
+
+
+    // --------------------------------------------------------
+    // NOME QUE SERÁ ENVIADO PARA A FUNCAMP
+    // --------------------------------------------------------
+
+    document.getElementById("nome").value =
+        document.getElementById("nomeparticipante").value +
+        " - " +
+        document.getElementById("equipe").value +
+        " - " +
+        document.getElementById("trilha").value;
+
+
+    // --------------------------------------------------------
+    // DESCRIÇÃO QUE SERÁ ENVIADA PARA A FUNCAMP
+    // --------------------------------------------------------
+
+    document.getElementById("descricao").value =
+        "Inscrição no Grande Desafio 2026 da equipe: " +
+        document.getElementById("equipe").value +
+        " na " +
+        document.getElementById("trilha").value;
+
+
+    // --------------------------------------------------------
+    // ENVIA O FORMULÁRIO
+    // --------------------------------------------------------
+
+    document.getElementById("formulario-pagamento").submit();
+}
+</script>
+
+
+<main role="main">
+
     <div class="d-flex flex-column vh-100 vw-100 hidden-overflow formulario-principal">
 
-      <div class="h-100 w-100 create-case-padding scroll-y">
-        <h1>Pagamento da Inscrição no Grande Desafio 2026</h1>
+        <div class="h-100 w-100 create-case-padding scroll-y">
 
-        Antes de realizar o pagamento, você deve preencher o formulário de inscrição. 
-        Se a equipe se inscrever em ambas as trilhas (exploratória e experimental), deve ser feito um pagamento para cada trilha.
-        Há possibilidade de pagamento por boleto ou cartão.
+            <h1>Pagamento da Inscrição no Grande Desafio 2026</h1>
 
-        <div class="row" style="padding-bottom: 70px;">
-          <div class="col-md-6">
-            <div class="form-group">
-              <label for="equipe">Nome da Equipe<span class="required"> (*)</span></label>
-              <input type="text" class="form-control" id="equipe" name="equipe" placeholder="Informe o nome da equipe">
+            <p>
+                Antes de realizar o pagamento, você deve preencher o formulário de inscrição.
+                Se a equipe se inscrever em ambas as trilhas (exploratória e experimental),
+                deve ser feito um pagamento para cada trilha.
+                Há possibilidade de pagamento por boleto ou cartão.
+            </p>
+
+
+            <div class="row" style="padding-bottom: 70px;">
+
+                <div class="col-md-6">
+
+
+                    <!-- INÍCIO DO FORMULÁRIO -->
+
+                    <form
+                        id="formulario-pagamento"
+                        action="https://www.funcamp.unicamp.br/portaleventos/WebAPI/Inscricao"
+                        method="get"
+                        onsubmit="realizaPagamento(event)"
+                    >
+
+
+                        <!-- DADOS INTERNOS DO SISTEMA -->
+
+                        <input
+                            type="hidden"
+                            id="identificador"
+                            name="identificador"
+                            value="PROD953f7eb9faf218e409ab0fc9716fe5af2c5"
+                        >
+
+                        <input
+                            type="hidden"
+                            id="descricao"
+                            name="descricao"
+                            value=""
+                        >
+
+                        <input
+                            type="hidden"
+                            id="pais"
+                            name="pais"
+                            value="Brasil"
+                        >
+
+                        <input
+                            type="hidden"
+                            id="datavencimento"
+                            name="datavencimento"
+                            value=""
+                        >
+
+                        <input
+                            type="hidden"
+                            id="redirect"
+                            name="redirect"
+                            value="S"
+                        >
+
+                        <input
+                            type="hidden"
+                            id="notificarporemail"
+                            name="notificarporemail"
+                            value="S"
+                        >
+
+                        <input
+                            type="hidden"
+                            id="flagprecificarporevento"
+                            name="flagprecificarporevento"
+                            value="N"
+                        >
+
+                        <input
+                            type="hidden"
+                            id="flagvalidarpagador"
+                            name="flagvalidarpagador"
+                            value="N"
+                        >
+
+                        <input
+                            type="hidden"
+                            id="flagpossuilotes"
+                            name="flagpossuilotes"
+                            value="N"
+                        >
+
+                        <input
+                            type="hidden"
+                            id="flagpossuitemas"
+                            name="flagpossuitemas"
+                            value="N"
+                        >
+
+                        <input
+                            type="hidden"
+                            id="numeropedido"
+                            name="numeropedido"
+                            value=""
+                        >
+
+                        <input
+                            type="hidden"
+                            id="tipoderetorno"
+                            name="tipoderetorno"
+                            value="resumo"
+                        >
+
+                        <input
+                            type="hidden"
+                            id="nome"
+                            name="nome"
+                            value=""
+                        >
+
+
+                        <!-- NOME DA EQUIPE -->
+
+                        <div class="form-group">
+
+                            <label for="equipe">
+                                Nome da Equipe
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <input
+                                type="text"
+                                class="form-control"
+                                id="equipe"
+                                placeholder="Informe o nome da equipe"
+                            >
+
+                        </div>
+
+
+                        <!-- TRILHA -->
+
+                        <div class="form-group">
+
+                            <label for="trilha">
+                                Trilha
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <select
+                                id="trilha"
+                                style="width:300px;"
+                            >
+
+                                <option value="">
+                                    Selecione
+                                </option>
+
+                                <option value="Trilha Experimental">
+                                    Trilha Experimental
+                                </option>
+
+                                <option value="Trilha Exploratória">
+                                    Trilha Exploratória
+                                </option>
+
+                            </select>
+
+                        </div>
+
+
+                        <!-- NOME COMPLETO -->
+
+                        <div class="form-group">
+
+                            <label for="nomeparticipante">
+                                Nome Completo
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <input
+                                type="text"
+                                class="form-control"
+                                id="nomeparticipante"
+                                placeholder="Informe o nome do pagante (usualmente o orientador)"
+                            >
+
+                        </div>
+
+
+                        <!-- TIPO DE DOCUMENTO -->
+
+                        <div class="form-group">
+
+                            <label for="tipodocumento">
+                                Tipo de Documento
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <select
+                                id="tipodocumento"
+                                name="tipodocumento"
+                                style="width:200px;"
+                            >
+
+                                <option value="CPF" selected>
+                                    CPF
+                                </option>
+
+                                <option value="CNPJ">
+                                    CNPJ
+                                </option>
+
+                            </select>
+
+                        </div>
+
+
+                        <!-- DOCUMENTO -->
+
+                        <div class="form-group">
+
+                            <label for="numerodocumento">
+                                Número do Documento
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <input
+                                type="text"
+                                class="form-control"
+                                id="numerodocumento"
+                                name="numerodocumento"
+                                placeholder="Informe o número do documento"
+                            >
+
+                        </div>
+
+
+                        <!-- CEP -->
+
+                        <div class="form-group">
+
+                            <label for="cep">
+                                CEP
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <input
+                                type="text"
+                                title="Exemplo: 13083-851"
+                                class="form-control"
+                                id="cep"
+                                name="cep"
+                                placeholder="Informe o CEP"
+                                style="width:155px;"
+                            >
+
+                        </div>
+
+
+                        <!-- ENDEREÇO -->
+
+                        <div class="form-group">
+
+                            <label for="endereco">
+                                Endereço
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <input
+                                type="text"
+                                class="form-control"
+                                id="endereco"
+                                name="endereco"
+                                placeholder="Informe seu endereço"
+                            >
+
+                        </div>
+
+
+                        <!-- NÚMERO -->
+
+                        <div class="form-group">
+
+                            <label for="numero">
+                                Número
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <input
+                                type="text"
+                                class="form-control"
+                                id="numero"
+                                name="numero"
+                                placeholder="Número"
+                                style="width:100px;"
+                            >
+
+                        </div>
+
+
+                        <!-- BAIRRO -->
+
+                        <div class="form-group">
+
+                            <label for="bairro">
+                                Bairro
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <input
+                                type="text"
+                                class="form-control"
+                                id="bairro"
+                                name="bairro"
+                                maxlength="72"
+                                placeholder="Informe o bairro"
+                            >
+
+                        </div>
+
+
+                        <!-- CIDADE -->
+
+                        <div class="form-group">
+
+                            <label for="cidade">
+                                Cidade
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <input
+                                type="text"
+                                class="form-control"
+                                id="cidade"
+                                name="cidade"
+                                maxlength="60"
+                                placeholder="Informe a cidade"
+                            >
+
+                        </div>
+
+
+                        <!-- ESTADO -->
+
+                        <div class="form-group">
+
+                            <label for="uf">
+                                Estado
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <select
+                                name="uf"
+                                id="uf"
+                                class="form-control"
+                                style="width:200px;"
+                            >
+
+                                <option value="">Selecione</option>
+
+                                <option value="AC">Acre</option>
+                                <option value="AL">Alagoas</option>
+                                <option value="AP">Amapá</option>
+                                <option value="AM">Amazonas</option>
+                                <option value="BA">Bahia</option>
+                                <option value="CE">Ceará</option>
+                                <option value="DF">Distrito Federal</option>
+                                <option value="ES">Espírito Santo</option>
+                                <option value="GO">Goiás</option>
+                                <option value="MA">Maranhão</option>
+                                <option value="MT">Mato Grosso</option>
+                                <option value="MS">Mato Grosso do Sul</option>
+                                <option value="MG">Minas Gerais</option>
+                                <option value="PA">Pará</option>
+                                <option value="PB">Paraíba</option>
+                                <option value="PR">Paraná</option>
+                                <option value="PE">Pernambuco</option>
+                                <option value="PI">Piauí</option>
+                                <option value="RJ">Rio de Janeiro</option>
+                                <option value="RN">Rio Grande do Norte</option>
+                                <option value="RS">Rio Grande do Sul</option>
+                                <option value="RO">Rondônia</option>
+                                <option value="RR">Roraima</option>
+                                <option value="SC">Santa Catarina</option>
+                                <option value="SP">São Paulo</option>
+                                <option value="SE">Sergipe</option>
+                                <option value="TO">Tocantins</option>
+
+                            </select>
+
+                        </div>
+
+
+                        <!-- CELULAR -->
+
+                        <div class="form-group">
+
+                            <label for="celular">
+                                Celular com DDD
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <input
+                                type="text"
+                                class="form-control"
+                                id="celular"
+                                name="celular"
+                                placeholder="Celular com DDD"
+                            >
+
+                        </div>
+
+
+                        <!-- EMAIL -->
+
+                        <div class="form-group">
+
+                            <label for="email">
+                                E-mail
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <input
+                                type="email"
+                                class="form-control"
+                                id="email"
+                                name="email"
+                                placeholder="E-mail"
+                            >
+
+                        </div>
+
+
+                        <!-- FORMA DE PAGAMENTO -->
+
+                        <div class="form-group">
+
+                            <label for="formapagamento">
+                                Forma de Pagamento
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <select
+                                id="formapagamento"
+                                name="formapagamento"
+                                style="width:200px;"
+                            >
+
+                                <option value="">
+                                    Selecione
+                                </option>
+
+                                <option value="10">
+                                    Cartão
+                                </option>
+
+                                <option value="2">
+                                    Boleto
+                                </option>
+
+                            </select>
+
+                        </div>
+
+
+                        <!-- VALOR -->
+
+                        <div class="form-group">
+
+                            <label for="valor">
+                                Valor
+                                <span class="required">(*)</span>
+                            </label>
+
+                            <select
+                                id="valor"
+                                name="valor"
+                                style="width:350px;"
+                            >
+
+                                <option value="">
+                                    Selecione
+                                </option>
+
+                                <option value="100">
+                                    Equipe de Instituição Particular: R$ 100
+                                </option>
+
+                                <option value="40">
+                                    Equipe de Instituição Pública: R$ 40
+                                </option>
+
+                            </select>
+
+                        </div>
+
+
+                        <!-- MENSAGEM DE ERRO -->
+
+                        <div
+                            id="mensagem-erro"
+                            style="
+                                color: red;
+                                font-weight: bold;
+                                margin-top: 15px;
+                                margin-bottom: 15px;
+                            "
+                        ></div>
+
+
+                        <!-- BOTÃO -->
+
+                        <button
+                            type="submit"
+                            class="btn btn-primary"
+                            style="
+                                margin-top: 15px;
+                                padding: 10px 30px;
+                                font-size: 18px;
+                                cursor: pointer;
+                            "
+                        >
+                            Pagar inscrição
+                        </button>
+
+
+                    </form>
+
+                    <!-- FIM DO FORMULÁRIO -->
+
+
+                </div>
+
             </div>
-            <div class="form-group">
-              <label for="trilha">Trilha<span class="required"> (*)</span></label>
-              <select id="trilha" name="trilha" style="width:300px;">
-                <option value="" selected="selected">Selecione</option>
-                <option value="Experimental">Trilha Experimental</option>
-                <option value="Exploratória">Trilha Exploratória</option>
-              </select>
-            </div>
-            <div class="form-group">
-              <label for="nomeparticipante">Nome Completo<span class="required"> (*)</span></label>
-              <input type="text" class="form-control" id="nomeparticipante" name="nomeparticipante" placeholder="Informe o nome do pagante (usualmente o orientador)">
-            </div>
-          <form id="formulario-pagamento" action="https://www.funcamp.unicamp.br/portaleventos/WebAPI/Inscricao">
-              <input type="hidden" id="identificador" name="identificador" value="PROD953f7eb9faf218e409ab0fc9716fe5af2c5">
-              <input type="hidden" id="descricao" name="descricao" value="">
-              <input type="hidden" id="pais" name="pais" value="Brasil">
-              <input type="hidden" id="datavencimento" name="datavencimento" value="">
-              <input type="hidden" id="redirect" name="redirect" value="S">
-              <input type="hidden" id="notificarporemail" name="notificarporemail" value="S">
-              <input type="hidden" id="flagprecificarporevento" name="flagprecificarporevento" value="N">
-              <input type="hidden" id="flagvalidarpagador" name="flagvalidarpagador" value="N">
-              <input type="hidden" id="flagpossuilotes" name="flagpossuilotes" value="N">
-              <input type="hidden" id="flagpossuitemas" name="flagpossuitemas" value="N">
-              <input type="hidden" id="numeropedido" name="numeropedido">
-              <input type="hidden" id="tipoderetorno" name="tipoderetorno" value="resumo">
 
-              <input type="hidden" id="nome" name="nome" value="">
-
-              <div class="form-group">
-                <label for="tipodocumento">Tipo de Documento<span class="required"> (*)</span></label>
-                <select id="tipodocumento" name="tipodocumento" style="width:200px;">
-                    <option value="CPF" selected="selected">CPF</option>
-                    <option value="CNPJ">CNPJ</option>
-                </select>
-              </div>
-              <div class="form-group">
-                <label for="numerodocumento">Número do Documento<span class="required"> (*)</span></label>
-                <input type="text" class="form-control" placeholder="Informe o número de documento" id="numerodocumento" name="numerodocumento">
-              </div>
-              <div class="form-group">
-                <label>CEP<span class="required">(*)</span></label>
-                <input title="Exemplo: 13083-851" class="form-control" placeholder="Informe o CEP" name="cep" id="cep" style="width:155px;">
-              </div>
-              <div class="form-group">
-                <label>Endereço<span class="required">(*)</span></label>
-                <input type="text" class="form-control" placeholder="Informe seu endereço" name="endereco" id="endereco">
-              </div>
-              <div class="form-group">
-                <label>Número<span class="required">(*)</span></label>
-                <input type="text" class="form-control" placeholder="Número" name="numero" id="numero" style="width:80px;">
-              </div>
-              <div class="form-group">
-                <label>Bairro<span class="required">(*)</span></label>
-                <input type="text" class="form-control" placeholder="Informe o bairro" name="bairro" id="bairro" maxlength="72">
-              </div>
-              <div class="form-group">
-                <label>Cidade<span class="required">(*)</span></label>
-                <input type="text" class="form-control" placeholder="Informe a cidade" name="cidade" id="cidade" maxlength="60">
-              </div>
-              <div class="form-group">
-                <label>Estado<span class="required">(*)</span></label>
-                <select name="uf" id="uf" class="form-control" style="width: 155px;">
-                    <option value="">Selecione</option>
-                    <option value="AC">Acre</option>
-                    <option value="AL">Alagias</option>
-                    <option value="AM">Amazonas</option>
-                    <option value="AP">Amapá</option>
-                    <option value="BA">Bahia</option>
-                    <option value="CE">Ceará</option>
-                    <option value="DF">Distrito Federal</option>
-                    <option value="ES">Espirito Santo</option>
-                    <option value="GO">Goiás</option>
-                    <option value="MA">Manaus</option>
-                    <option value="MG">Minas Gerais</option>
-                    <option value="MS">Mato Grosso do Sul</option>
-                    <option value="MT">Mato Grosso</option>
-                    <option value="PA">Pará</option>
-                    <option value="PB">Paraíba</option>
-                    <option value="PE">Pernambuco</option>
-                    <option value="PI">Píaui</option>
-                    <option value="PR">Paraná</option>
-                    <option value="RJ">Rio de Janeiro</option>
-                    <option value="RN">Rio Grande do Norte</option>
-                    <option value="RS">Rio Grande do Sul</option>
-                    <option value="RO">Rondônia</option>
-                    <option value="RR">Roraima</option>
-                    <option value="SC">Santa Catarina</option>
-                    <option value="SE">Sergipe</option>
-                    <option value="SP">São Paulo</option>
-                    <option value="TO">Tocantins</option>
-                </select>
-              </div>
-              <div class="form-group">
-                <label for="celular">Celular com DDD<span class="required">(*)</span></label>
-                <input type="text" class="form-control" id="celular" name="celular" placeholder="Celular com DDD">
-              </div>
-              <div class="form-group">
-                <label for="email">E-mail<span class="required">(*)</span></label>
-                <input type="text" class="form-control" id="email" name="email" placeholder="E-mail">
-              </div>
-              <div class="form-group">
-                <label for="formapagamento">Forma de Pagamento<span class="required"> (*)</span></label>
-                <select id="formapagamento" name="formapagamento" style="width:200px;">
-                  <option value="" selected="selected">Selecione</option>
-                  <option value="10">Cartão</option>
-                  <option value="2">Boleto</option>
-                </select>
-              </div>
-              <div class="form-group">
-                <label for="valor">Valor<span class="required"> (*)</span></label>
-                <select id="valor" name="valor" style="width:300px;">
-                  <option value="" selected="selected">Selecione</option>
-                  <option value="100">Equipe de Instituição Particular: R$ 100</option>
-                  <option value="40">Equipe de Instituição Pública: R$ 40</option>
-                </select>
-              </div>
-              <h2 id="mensagem-erro" style="color:Red"></h2>
-              <a class="btn btn-primary" role="button" onclick="realizaDoacao()">Pagar</a>
-            </form>
-          </div>
         </div>
 
-      </div>
     </div>
-  </main>
-  <!-- end of div /.container -->
+
+</main>
