@@ -1,10 +1,18 @@
-<!-- PAGAMENTO GRANDE DESAFIO 2026 -->
+<!-- PAGAMENTO DA INSCRIÇÃO - GRANDE DESAFIO 2026 -->
 
 <script>
 function realizaPagamento(event) {
 
-    // Impede o envio imediato do formulário
+    // Impede o envio automático antes das validações
     event.preventDefault();
+
+    const mensagemErro = document.getElementById("mensagem-erro");
+    mensagemErro.innerHTML = "";
+
+
+    // ============================================================
+    // CAMPOS OBRIGATÓRIOS
+    // ============================================================
 
     const camposObrigatorios = [
         { id: "equipe", nome: "Nome da Equipe" },
@@ -23,11 +31,11 @@ function realizaPagamento(event) {
         { id: "valor", nome: "Valor" }
     ];
 
-    const mensagemErro = document.getElementById("mensagem-erro");
 
-    mensagemErro.innerHTML = "";
+    // ============================================================
+    // VERIFICA SE TODOS OS CAMPOS FORAM PREENCHIDOS
+    // ============================================================
 
-    // Verifica os campos obrigatórios
     for (const campoInfo of camposObrigatorios) {
 
         const campo = document.getElementById(campoInfo.id);
@@ -46,66 +54,139 @@ function realizaPagamento(event) {
     }
 
 
-    // --------------------------------------------------------
-    // GERA NÚMERO DO PEDIDO
-    // Máximo permitido pela FUNCAMP = 15 caracteres
-    // --------------------------------------------------------
+    // ============================================================
+    // VALIDA CPF / CNPJ
+    // ============================================================
 
-    const agora = new Date();
+    const tipoDocumento =
+        document.getElementById("tipodocumento").value;
 
-    const ano = String(agora.getFullYear()).slice(-2);
-    const mes = String(agora.getMonth() + 1).padStart(2, "0");
-    const dia = String(agora.getDate()).padStart(2, "0");
-    const hora = String(agora.getHours()).padStart(2, "0");
-    const minuto = String(agora.getMinutes()).padStart(2, "0");
-    const segundo = String(agora.getSeconds()).padStart(2, "0");
+    const campoDocumento =
+        document.getElementById("numerodocumento");
 
-    // Número aleatório de 3 dígitos
-    const aleatorio = Math.floor(100 + Math.random() * 900);
-
-    // 2 + 2 + 2 + 2 + 2 + 2 + 3 = 15 caracteres
-    const numeroPedido =
-        ano +
-        mes +
-        dia +
-        hora +
-        minuto +
-        segundo +
-        aleatorio;
-
-    document.getElementById("numeropedido").value = numeroPedido;
+    // Remove pontos, traços, barras, espaços etc.
+    let numeroDocumento =
+        campoDocumento.value.replace(/\D/g, "");
 
 
-    // --------------------------------------------------------
-    // NOME ENVIADO PARA A FUNCAMP
-    // --------------------------------------------------------
+    // CPF deve possuir exatamente 11 números
+    if (tipoDocumento === "CPF") {
 
-    document.getElementById("nome").value =
-        document.getElementById("nomeparticipante").value +
-        " - " +
-        document.getElementById("equipe").value +
-        " - " +
+        if (numeroDocumento.length !== 11) {
+
+            mensagemErro.innerHTML =
+                "Informe um CPF válido com 11 números.";
+
+            campoDocumento.focus();
+
+            return false;
+        }
+    }
+
+
+    // CNPJ deve possuir exatamente 14 números
+    if (tipoDocumento === "CNPJ") {
+
+        if (numeroDocumento.length !== 14) {
+
+            mensagemErro.innerHTML =
+                "Informe um CNPJ válido com 14 números.";
+
+            campoDocumento.focus();
+
+            return false;
+        }
+    }
+
+
+    // Envia para a FUNCAMP somente os números
+    campoDocumento.value = numeroDocumento;
+
+
+    // ============================================================
+    // GERA O NÚMERO DO PEDIDO
+    //
+    // A FUNCAMP permite no máximo 15 caracteres.
+    //
+    // Date.now() = 13 caracteres
+    // + número aleatório = 2 caracteres
+    // Total = 15 caracteres
+    // ============================================================
+
+    const timestamp = Date.now().toString();
+
+    const aleatorio =
+        Math.floor(Math.random() * 100)
+        .toString()
+        .padStart(2, "0");
+
+    let numeroPedido = timestamp + aleatorio;
+
+    // Segurança adicional:
+    // jamais permite mais de 15 caracteres
+    numeroPedido = numeroPedido.substring(0, 15);
+
+    document.getElementById("numeropedido").value =
+        numeroPedido;
+
+
+    // ============================================================
+    // MONTA O NOME ENVIADO PARA A FUNCAMP
+    // ============================================================
+
+    const nomeParticipante =
+        document.getElementById("nomeparticipante").value.trim();
+
+    const nomeEquipe =
+        document.getElementById("equipe").value.trim();
+
+    const trilha =
         document.getElementById("trilha").value;
 
 
-    // --------------------------------------------------------
-    // DESCRIÇÃO ENVIADA PARA A FUNCAMP
-    // --------------------------------------------------------
+    document.getElementById("nome").value =
+        nomeParticipante +
+        " - " +
+        nomeEquipe +
+        " - " +
+        trilha;
+
+
+    // ============================================================
+    // MONTA A DESCRIÇÃO
+    // ============================================================
 
     document.getElementById("descricao").value =
         "Inscrição no Grande Desafio 2026 da equipe: " +
-        document.getElementById("equipe").value +
+        nomeEquipe +
         " na " +
-        document.getElementById("trilha").value;
+        trilha;
 
 
-    // --------------------------------------------------------
-    // ENVIA O FORMULÁRIO
-    // --------------------------------------------------------
+    // ============================================================
+    // VERIFICAÇÃO FINAL DO NÚMERO DO PEDIDO
+    // ============================================================
+
+    if (
+        document.getElementById("numeropedido").value.length > 15
+    ) {
+
+        mensagemErro.innerHTML =
+            "Erro interno ao gerar o número do pedido.";
+
+        return false;
+    }
+
+
+    // ============================================================
+    // ENVIA PARA A FUNCAMP
+    // ============================================================
 
     document.getElementById("formulario-pagamento").submit();
+
 }
 </script>
+
 
 
 <main role="main">
@@ -114,12 +195,18 @@ function realizaPagamento(event) {
 
         <div class="h-100 w-100 create-case-padding scroll-y">
 
-            <h1>Pagamento da Inscrição no Grande Desafio 2026</h1>
+
+            <h1>
+                Pagamento da Inscrição no Grande Desafio 2026
+            </h1>
+
 
             <p>
-                Antes de realizar o pagamento, você deve preencher o formulário de inscrição.
-                Se a equipe se inscrever em ambas as trilhas (exploratória e experimental),
-                deve ser feito um pagamento para cada trilha.
+                Antes de realizar o pagamento, você deve preencher
+                o formulário de inscrição.
+                Se a equipe se inscrever em ambas as trilhas
+                (exploratória e experimental), deve ser feito
+                um pagamento para cada trilha.
                 Há possibilidade de pagamento por boleto ou cartão.
             </p>
 
@@ -129,15 +216,23 @@ function realizaPagamento(event) {
                 <div class="col-md-6">
 
 
+                    <!-- ================================================= -->
+                    <!-- FORMULÁRIO -->
+                    <!-- ================================================= -->
+
                     <form
                         id="formulario-pagamento"
                         action="https://www.funcamp.unicamp.br/portaleventos/WebAPI/Inscricao"
                         method="get"
+                        accept-charset="UTF-8"
                         onsubmit="realizaPagamento(event)"
                     >
 
 
-                        <!-- DADOS INTERNOS FUNCAMP -->
+                        <!-- ============================================= -->
+                        <!-- CAMPOS INTERNOS DA FUNCAMP -->
+                        <!-- ============================================= -->
+
 
                         <input
                             type="hidden"
@@ -146,12 +241,14 @@ function realizaPagamento(event) {
                             value="PROD953f7eb9faf218e409ab0fc9716fe5af2c5"
                         >
 
+
                         <input
                             type="hidden"
                             id="descricao"
                             name="descricao"
                             value=""
                         >
+
 
                         <input
                             type="hidden"
@@ -160,12 +257,14 @@ function realizaPagamento(event) {
                             value="Brasil"
                         >
 
+
                         <input
                             type="hidden"
                             id="datavencimento"
                             name="datavencimento"
                             value=""
                         >
+
 
                         <input
                             type="hidden"
@@ -174,12 +273,14 @@ function realizaPagamento(event) {
                             value="S"
                         >
 
+
                         <input
                             type="hidden"
                             id="notificarporemail"
                             name="notificarporemail"
                             value="S"
                         >
+
 
                         <input
                             type="hidden"
@@ -188,12 +289,14 @@ function realizaPagamento(event) {
                             value="N"
                         >
 
+
                         <input
                             type="hidden"
                             id="flagvalidarpagador"
                             name="flagvalidarpagador"
                             value="N"
                         >
+
 
                         <input
                             type="hidden"
@@ -202,12 +305,14 @@ function realizaPagamento(event) {
                             value="N"
                         >
 
+
                         <input
                             type="hidden"
                             id="flagpossuitemas"
                             name="flagpossuitemas"
                             value="N"
                         >
+
 
                         <input
                             type="hidden"
@@ -216,12 +321,14 @@ function realizaPagamento(event) {
                             value=""
                         >
 
+
                         <input
                             type="hidden"
                             id="tipoderetorno"
                             name="tipoderetorno"
                             value="resumo"
                         >
+
 
                         <input
                             type="hidden"
@@ -231,14 +338,23 @@ function realizaPagamento(event) {
                         >
 
 
+
+                        <!-- ============================================= -->
                         <!-- NOME DA EQUIPE -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="equipe">
+
                                 Nome da Equipe
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <input
                                 type="text"
@@ -250,14 +366,23 @@ function realizaPagamento(event) {
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- TRILHA -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="trilha">
+
                                 Trilha
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <select
                                 id="trilha"
@@ -268,12 +393,18 @@ function realizaPagamento(event) {
                                     Selecione
                                 </option>
 
+
                                 <option value="Trilha Experimental">
+
                                     Trilha Experimental
+
                                 </option>
 
+
                                 <option value="Trilha Exploratória">
+
                                     Trilha Exploratória
+
                                 </option>
 
                             </select>
@@ -281,14 +412,23 @@ function realizaPagamento(event) {
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- NOME COMPLETO -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="nomeparticipante">
+
                                 Nome Completo
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <input
                                 type="text"
@@ -300,14 +440,23 @@ function realizaPagamento(event) {
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- TIPO DE DOCUMENTO -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="tipodocumento">
+
                                 Tipo de Documento
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <select
                                 id="tipodocumento"
@@ -315,9 +464,13 @@ function realizaPagamento(event) {
                                 style="width:200px;"
                             >
 
-                                <option value="CPF" selected>
+                                <option
+                                    value="CPF"
+                                    selected
+                                >
                                     CPF
                                 </option>
+
 
                                 <option value="CNPJ">
                                     CNPJ
@@ -328,34 +481,53 @@ function realizaPagamento(event) {
                         </div>
 
 
-                        <!-- DOCUMENTO -->
+
+                        <!-- ============================================= -->
+                        <!-- NÚMERO DO DOCUMENTO -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="numerodocumento">
+
                                 Número do Documento
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <input
                                 type="text"
                                 class="form-control"
                                 id="numerodocumento"
                                 name="numerodocumento"
-                                placeholder="Informe o número do documento"
+                                placeholder="Informe o CPF ou CNPJ"
+                                maxlength="18"
                             >
 
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- CEP -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="cep">
+
                                 CEP
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <input
                                 type="text"
@@ -370,14 +542,23 @@ function realizaPagamento(event) {
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- ENDEREÇO -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="endereco">
+
                                 Endereço
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <input
                                 type="text"
@@ -390,14 +571,23 @@ function realizaPagamento(event) {
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- NÚMERO -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="numero">
+
                                 Número
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <input
                                 type="text"
@@ -411,14 +601,23 @@ function realizaPagamento(event) {
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- BAIRRO -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="bairro">
+
                                 Bairro
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <input
                                 type="text"
@@ -432,14 +631,23 @@ function realizaPagamento(event) {
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- CIDADE -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="cidade">
+
                                 Cidade
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <input
                                 type="text"
@@ -453,14 +661,23 @@ function realizaPagamento(event) {
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- ESTADO -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="uf">
+
                                 Estado
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <select
                                 name="uf"
@@ -469,49 +686,140 @@ function realizaPagamento(event) {
                                 style="width:200px;"
                             >
 
-                                <option value="">Selecione</option>
+                                <option value="">
+                                    Selecione
+                                </option>
 
-                                <option value="AC">Acre</option>
-                                <option value="AL">Alagoas</option>
-                                <option value="AP">Amapá</option>
-                                <option value="AM">Amazonas</option>
-                                <option value="BA">Bahia</option>
-                                <option value="CE">Ceará</option>
-                                <option value="DF">Distrito Federal</option>
-                                <option value="ES">Espírito Santo</option>
-                                <option value="GO">Goiás</option>
-                                <option value="MA">Maranhão</option>
-                                <option value="MT">Mato Grosso</option>
-                                <option value="MS">Mato Grosso do Sul</option>
-                                <option value="MG">Minas Gerais</option>
-                                <option value="PA">Pará</option>
-                                <option value="PB">Paraíba</option>
-                                <option value="PR">Paraná</option>
-                                <option value="PE">Pernambuco</option>
-                                <option value="PI">Piauí</option>
-                                <option value="RJ">Rio de Janeiro</option>
-                                <option value="RN">Rio Grande do Norte</option>
-                                <option value="RS">Rio Grande do Sul</option>
-                                <option value="RO">Rondônia</option>
-                                <option value="RR">Roraima</option>
-                                <option value="SC">Santa Catarina</option>
-                                <option value="SP">São Paulo</option>
-                                <option value="SE">Sergipe</option>
-                                <option value="TO">Tocantins</option>
+                                <option value="AC">
+                                    Acre
+                                </option>
+
+                                <option value="AL">
+                                    Alagoas
+                                </option>
+
+                                <option value="AP">
+                                    Amapá
+                                </option>
+
+                                <option value="AM">
+                                    Amazonas
+                                </option>
+
+                                <option value="BA">
+                                    Bahia
+                                </option>
+
+                                <option value="CE">
+                                    Ceará
+                                </option>
+
+                                <option value="DF">
+                                    Distrito Federal
+                                </option>
+
+                                <option value="ES">
+                                    Espírito Santo
+                                </option>
+
+                                <option value="GO">
+                                    Goiás
+                                </option>
+
+                                <option value="MA">
+                                    Maranhão
+                                </option>
+
+                                <option value="MT">
+                                    Mato Grosso
+                                </option>
+
+                                <option value="MS">
+                                    Mato Grosso do Sul
+                                </option>
+
+                                <option value="MG">
+                                    Minas Gerais
+                                </option>
+
+                                <option value="PA">
+                                    Pará
+                                </option>
+
+                                <option value="PB">
+                                    Paraíba
+                                </option>
+
+                                <option value="PR">
+                                    Paraná
+                                </option>
+
+                                <option value="PE">
+                                    Pernambuco
+                                </option>
+
+                                <option value="PI">
+                                    Piauí
+                                </option>
+
+                                <option value="RJ">
+                                    Rio de Janeiro
+                                </option>
+
+                                <option value="RN">
+                                    Rio Grande do Norte
+                                </option>
+
+                                <option value="RS">
+                                    Rio Grande do Sul
+                                </option>
+
+                                <option value="RO">
+                                    Rondônia
+                                </option>
+
+                                <option value="RR">
+                                    Roraima
+                                </option>
+
+                                <option value="SC">
+                                    Santa Catarina
+                                </option>
+
+                                <option value="SP">
+                                    São Paulo
+                                </option>
+
+                                <option value="SE">
+                                    Sergipe
+                                </option>
+
+                                <option value="TO">
+                                    Tocantins
+                                </option>
 
                             </select>
 
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- CELULAR -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="celular">
+
                                 Celular com DDD
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <input
                                 type="text"
@@ -524,34 +832,52 @@ function realizaPagamento(event) {
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- E-MAIL -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="email">
+
                                 E-mail
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <input
                                 type="email"
                                 class="form-control"
                                 id="email"
                                 name="email"
-                                placeholder="E-mail"
+                                placeholder="Informe o e-mail"
                             >
 
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- FORMA DE PAGAMENTO -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="formapagamento">
+
                                 Forma de Pagamento
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <select
                                 id="formapagamento"
@@ -563,9 +889,11 @@ function realizaPagamento(event) {
                                     Selecione
                                 </option>
 
+
                                 <option value="10">
                                     Cartão
                                 </option>
+
 
                                 <option value="2">
                                     Boleto
@@ -576,14 +904,23 @@ function realizaPagamento(event) {
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- VALOR -->
+                        <!-- ============================================= -->
 
                         <div class="form-group">
 
                             <label for="valor">
+
                                 Valor
-                                <span class="required">(*)</span>
+
+                                <span class="required">
+                                    (*)
+                                </span>
+
                             </label>
+
 
                             <select
                                 id="valor"
@@ -595,12 +932,20 @@ function realizaPagamento(event) {
                                     Selecione
                                 </option>
 
+
                                 <option value="100">
-                                    Equipe de Instituição Particular: R$ 100
+
+                                    Equipe de Instituição Particular:
+                                    R$ 100
+
                                 </option>
 
+
                                 <option value="40">
-                                    Equipe de Instituição Pública: R$ 40
+
+                                    Equipe de Instituição Pública:
+                                    R$ 40
+
                                 </option>
 
                             </select>
@@ -608,7 +953,10 @@ function realizaPagamento(event) {
                         </div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- MENSAGEM DE ERRO -->
+                        <!-- ============================================= -->
 
                         <div
                             id="mensagem-erro"
@@ -621,7 +969,10 @@ function realizaPagamento(event) {
                         ></div>
 
 
+
+                        <!-- ============================================= -->
                         <!-- BOTÃO -->
+                        <!-- ============================================= -->
 
                         <button
                             type="submit"
@@ -633,11 +984,17 @@ function realizaPagamento(event) {
                                 cursor: pointer;
                             "
                         >
+
                             Pagar inscrição
+
                         </button>
 
 
                     </form>
+
+
+                    <!-- FIM DO FORMULÁRIO -->
+
 
                 </div>
 
