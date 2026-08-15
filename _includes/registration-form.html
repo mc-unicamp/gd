@@ -3,7 +3,7 @@
 <script>
 function realizaPagamento(event) {
 
-    // Impede o envio imediato
+    // Impede o envio imediato do formulário
     event.preventDefault();
 
     const camposObrigatorios = [
@@ -45,21 +45,25 @@ function realizaPagamento(event) {
         }
     }
 
+
     // --------------------------------------------------------
-    // GERA NÚMERO ÚNICO PARA O PEDIDO
+    // GERA NÚMERO DO PEDIDO
+    // Máximo permitido pela FUNCAMP = 15 caracteres
     // --------------------------------------------------------
 
     const agora = new Date();
 
-    const ano = agora.getFullYear();
+    const ano = String(agora.getFullYear()).slice(-2);
     const mes = String(agora.getMonth() + 1).padStart(2, "0");
     const dia = String(agora.getDate()).padStart(2, "0");
     const hora = String(agora.getHours()).padStart(2, "0");
     const minuto = String(agora.getMinutes()).padStart(2, "0");
     const segundo = String(agora.getSeconds()).padStart(2, "0");
 
-    const aleatorio = Math.floor(1000 + Math.random() * 9000);
+    // Número aleatório de 3 dígitos
+    const aleatorio = Math.floor(100 + Math.random() * 900);
 
+    // 2 + 2 + 2 + 2 + 2 + 2 + 3 = 15 caracteres
     const numeroPedido =
         ano +
         mes +
@@ -73,7 +77,7 @@ function realizaPagamento(event) {
 
 
     // --------------------------------------------------------
-    // NOME QUE SERÁ ENVIADO PARA A FUNCAMP
+    // NOME ENVIADO PARA A FUNCAMP
     // --------------------------------------------------------
 
     document.getElementById("nome").value =
@@ -85,7 +89,7 @@ function realizaPagamento(event) {
 
 
     // --------------------------------------------------------
-    // DESCRIÇÃO QUE SERÁ ENVIADA PARA A FUNCAMP
+    // DESCRIÇÃO ENVIADA PARA A FUNCAMP
     // --------------------------------------------------------
 
     document.getElementById("descricao").value =
@@ -125,8 +129,6 @@ function realizaPagamento(event) {
                 <div class="col-md-6">
 
 
-                    <!-- INÍCIO DO FORMULÁRIO -->
-
                     <form
                         id="formulario-pagamento"
                         action="https://www.funcamp.unicamp.br/portaleventos/WebAPI/Inscricao"
@@ -135,7 +137,7 @@ function realizaPagamento(event) {
                     >
 
 
-                        <!-- DADOS INTERNOS DO SISTEMA -->
+                        <!-- DADOS INTERNOS FUNCAMP -->
 
                         <input
                             type="hidden"
@@ -522,7 +524,7 @@ function realizaPagamento(event) {
                         </div>
 
 
-                        <!-- EMAIL -->
+                        <!-- E-MAIL -->
 
                         <div class="form-group">
 
@@ -636,9 +638,6 @@ function realizaPagamento(event) {
 
 
                     </form>
-
-                    <!-- FIM DO FORMULÁRIO -->
-
 
                 </div>
 
