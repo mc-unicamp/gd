@@ -4,7 +4,7 @@ layout: pages
 categories: ["calendar"]
 ---
 
-Todas as oficinas prévias ao Grande Dia serão realizadas no Museu Exploratório de Ciências da Unicamp, aos sábados.
+Todas as oficinas prévias ao Grande Dia serão realizadas aos sábados, no Museu Exploratório de Ciências da Unicamp. A participação nessas oficinas **não é obrigatória** para participar do Grande Dia; elas têm caráter de apoio e servem principalmente como um espaço para esclarecimento de dúvidas e orientação das equipes ao longo do desenvolvimento dos projetos.
 
 O calendário segue o planejamento anual do Museu. Qualquer mudança resultante de eventos imprevistos será divulgada com antecedência nesta página.
 
@@ -19,6 +19,7 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
 * **Oficina de Testes - trilha experimental**<br>
   **Prévia de Projetos - trilha exploratória**
   * **Data**: Sábado 29/08/2026
+  * **Horário**: <span style="color:blue">9:30 às 11:30</span>
  * **Presencial no Museu Exploratório de Ciência da UNICAMP**
 
 ### Segundo Encontro
@@ -26,6 +27,7 @@ O calendário segue o planejamento anual do Museu. Qualquer mudança resultante 
 * **Oficina de Testes - trilha experimental**<br>
   **Prévia de Resultados - trilha exploratória**
   * **Data**: Sábado 26/09/2026
+  * **Horário**: <span style="color:blue">9:30 às 11:30</span>
   * **Presencial no Museu Exploratório de Ciência da UNICAMP**
 
 ## Grande Dia
@@ -47,6 +49,6 @@ Essas oficinas são voltadas a quem participa da Trilha Experimental. A fim de p
 
 Essas duas oficinas estão ligadas aos passos a serem seguidos na Trilha Exploratória.
 
-**Prévia dos Projetos**: Nesse dia, a sua equipe terá a oportunidade de fazer a apresentação prévia do projeto completo. Tal como a Oficina de Debate, a apresentação será assistida por membros do Comitê Científico do Grande Desafio que avaliará a apresentação, fará comentários e dará sugestões. Essa apresentação não é obrigatória, mas no Grande Dia haverá uma premiação especial para aqueles que se destacarem na Prévia de Projetos.
+**Prévia dos Projetos**: Nesse dia, a sua equipe terá a oportunidade de fazer a apresentação prévia do projeto completo. Tal como a Oficina de Debate, a apresentação será assistida por membros do Comitê Científico do Grande Desafio que avaliará a apresentação, fará comentários e dará sugestões. 
 
-**Prévia dos Resultados**: Nesse dia, a sua equipe terá oportunidade de realizar uma apresentação prévia de tudo o que foi alcançado (projeto, experimentos, resultados, etc.). Tal como nas oficinas anteriores, a apresentação será assistida por membros do Comitê Científico do Grande Desafio que avaliará a apresentação, fará comentários e dará sugestões. Essa apresentação não é obrigatória, mas no Grande Dia haverá uma premiação especial para aqueles que se destacarem na Prévia de Resultados.
+**Prévia dos Resultados**: Nesse dia, a sua equipe terá oportunidade de realizar uma apresentação prévia de tudo o que foi alcançado (projeto, experimentos, resultados, etc.). Tal como nas oficinas anteriores, a apresentação será assistida por membros do Comitê Científico do Grande Desafio que avaliará a apresentação, fará comentários e dará sugestões.
