@@ -5,19 +5,7 @@ layout: pages
 categories: ["registration"]
 
 ---
-## Inscrições abertas
-
-As inscrições para o **14º Grande Desafio** já estão abertas!
-
-Para realizar a inscrição, o(a) orientador(a) deverá primeiro preencher o formulário com os dados da equipe. Ao final do preenchimento, será direcionado(a) para uma nova página para a realização do pagamento, que poderá ser feito por **boleto** ou **cartão**.
-
-Antes de iniciar o preenchimento do formulário, tenha em mãos os **dados dos participantes** e os **dados da escola**.
-
-<div style="text-align:center; margin: 30px 0;">
-
-<a href="https://forms.gle/4fM5cwizsENNSqZq8" target="_blank" style="display:inline-block; background-color:#e31b23; color:#ffffff; padding:16px 32px; border-radius:8px; font-weight:bold; text-transform:uppercase; text-decoration:none; font-size:18px;">
-Fazer inscrição
-</a>
+## Inscrições Encerradas
 
 </div>
 
