@@ -21,20 +21,6 @@ Em 2026, o tema é:
 
 ---
 
-## Inscrições abertas
-
-<div class="gd-card" markdown="1">
-
-As inscrições para o **14º Grande Desafio** já estão abertas!
-
-As equipes interessadas devem acessar a página de inscrições, conferir as orientações e preencher o formulário dentro do prazo.
-
-<a class="gd-button" href="https://museu.harena.org/gd/inscricoes/">Acessar inscrições</a>
-
-</div>
-
----
-
 ## Live de Lançamento do Manual
 
 <div class="gd-video">
