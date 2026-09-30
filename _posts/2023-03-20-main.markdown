@@ -1,5 +1,4 @@
 ---
-
 title: Página Principal
 layout: default
 categories: ["main"]
@@ -16,6 +15,101 @@ O Grande Desafio é uma atividade proposta por cientistas e educadores da Unicam
 Em 2026, o tema é:
 
 **Como as ciências nos fazem viajar no espaço-tempo?**
+
+</div>
+
+---
+
+## Grande Dia — 10 de outubro de 2026
+
+<div class="gd-video">
+<iframe src="https://www.youtube.com/embed/TW5gyZGyE2w?si=pegHWFFv_h9p2ha0" title="Orientações sobre o Grande Dia do 14º Grande Desafio" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="gd-card" markdown="1">
+
+O **Grande Dia do 14º Grande Desafio** será realizado no dia **10 de outubro de 2026**, no **Ginásio Multidisciplinar da UNICAMP (GMU)**.
+
+Neste vídeo apresentamos as principais informações sobre o evento, incluindo a chegada das equipes, organização das atividades, apresentações, avaliações e orientações gerais para as trilhas **Exploratória** e **Experimental**.
+
+É muito importante que **orientadores(as) e integrantes das equipes assistam ao vídeo antes do evento**.
+
+</div>
+
+---
+
+## Programação do Grande Dia
+
+<div class="gd-grid">
+
+<div class="gd-info-card" markdown="1">
+
+### Trilha Exploratória
+
+**8h às 9h — Recepção das equipes**
+
+Durante a recepção, as equipes receberão seus kits e uma ficha indicando a **mesa onde deverão permanecer durante as avaliações**.
+
+**9h30 às 11h30 — Avaliação das equipes**
+
+Durante esse período, as equipes deverão permanecer em suas mesas para receber os avaliadores. Os projetos serão apresentados e avaliados conforme os critérios estabelecidos para a Trilha Exploratória.
+
+É importante que os integrantes da equipe estejam presentes durante todo o período de avaliação.
+
+**12h às 13h — Show da Física**
+
+Após as avaliações, todas as equipes estão convidadas para acompanhar o Show da Física.
+
+**13h às 14h — Premiação**
+
+Encerramento do Grande Dia com a cerimônia de premiação das equipes.
+
+</div>
+
+<div class="gd-info-card" markdown="1">
+
+### Trilha Experimental
+
+**8h às 9h — Recepção das equipes**
+
+Na chegada ao Ginásio Multidisciplinar, cada equipe receberá um **cartão com o horário em que deverá se apresentar na arena**.
+
+Os horários serão distribuídos de acordo com a **ordem de chegada das equipes**.
+
+Pedimos que a equipe se dirija à fila da arena **10 minutos antes do horário indicado no cartão**.
+
+**9h às 12h — Apresentações na arena**
+
+As equipes realizarão seus testes e apresentações na arena durante o horário indicado no cartão recebido na chegada.
+
+É importante que a equipe esteja preparada e com o protótipo pronto no momento da chamada.
+
+**12h às 13h — Show da Física**
+
+Após as apresentações, todas as equipes estão convidadas para acompanhar o Show da Física.
+
+**13h às 14h — Premiação**
+
+Encerramento do Grande Dia com a cerimônia de premiação das equipes.
+
+</div>
+
+</div>
+
+---
+
+## Informações Gerais
+
+<div class="gd-card" markdown="1">
+
+**Data:** 10 de outubro de 2026  
+**Local:** Ginásio Multidisciplinar da UNICAMP (GMU)  
+**Recepção das equipes:** das 8h às 9h  
+**Atividades e avaliações:** período da manhã  
+**Show da Física:** das 12h às 13h  
+**Premiação:** das 13h às 14h
+
+Recomendamos que todas as equipes cheguem dentro do período de recepção para que possam realizar o credenciamento e receber todas as orientações necessárias para sua participação.
 
 </div>
 
@@ -49,53 +143,11 @@ Em 2026, o tema é:
 
 <div class="gd-card" markdown="1">
 
-**Data:** Sábado, 01/08/2026
-**Horário:** 9h30 às 11h30
+**Data:** Sábado, 01/08/2026  
+**Horário:** 9h30 às 11h30  
 **Local:** Museu Exploratório de Ciências da UNICAMP
 
 A oficina é destinada aos orientadores das equipes participantes e tem como objetivo apresentar o funcionamento do Grande Desafio, esclarecer dúvidas sobre as trilhas e fornecer orientações para o acompanhamento das equipes ao longo do desenvolvimento dos projetos.
-
-</div>
-
----
-
-## Grande Dia
-
-<div class="gd-card" markdown="1">
-
-**Data:** 10 de outubro de 2026
-**Horário:** A partir das 9h
-**Local:** Ginásio Multidisciplinar da UNICAMP (GMU)
-
-O Grande Dia está chegando! Prepare sua equipe e participe desta grande celebração da ciência.
-
-</div>
-
----
-
-## Orientações Importantes para as Equipes
-
-<div class="gd-grid">
-
-<div class="gd-info-card" markdown="1">
-
-### Trilha Exploratória
-
-Informações sobre pôsteres, apresentações e avaliação.
-
-<a class="gd-button" href="https://museu.harena.org/gd/trilha-exploratoria/">Acessar</a>
-
-</div>
-
-<div class="gd-info-card" markdown="1">
-
-### Trilha Experimental
-
-Informações sobre a arena, voo e avaliação dos protótipos.
-
-<a class="gd-button" href="https://museu.harena.org/gd/trilha-experimental/">Acessar</a>
-
-</div>
 
 </div>
 
